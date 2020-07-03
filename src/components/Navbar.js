@@ -10,7 +10,7 @@ class Navbar extends React.Component {
 
 
           <nav class="navbar navbar-expand-md navbar-dark bg-dark">
-              <a href="#" class="navbar-brand">Brand</a>
+              <a href="#" class="navbar-brand">IEEE-SB-NITW</a>
               <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
                   <span class="navbar-toggler-icon"></span>
               </button>
