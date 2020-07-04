@@ -4,7 +4,7 @@
 		<img alt="GitHub package.json version" src="https://img.shields.io/github/package-json/v/Aakash074/IEEE-SB-NITW?color=red&label=Version">
 		<img alt="GitHub package.json dependency version (prod)" src="https://img.shields.io/github/package-json/dependency-version/Aakash074/IEEE-SB-NITW/react">
 		<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Aakash074/IEEE-SB-NITW?color=purple">
-		<img alt="GitHub commit merge status" src="https://img.shields.io/github/commit-status/Aakash074/IEEE-SB-NITW/master/bd6264ef8186205d4838f8bb505391c184e8ef64?color=orange&label=Commit">
+		<img alt="GitHub commit merge status" src="https://img.shields.io/github/commit-status/gaganvamsi2/IEEE-SB-NITW1/master/bd6264ef8186205d4838f8bb505391c184e8ef64?color=orange&label=Commit">
 		<img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=maintenance&style=flat-square&up_message=online&url=https%3A%2F%2FIEEE-SB.net"> <img alt="GitHub stars" src="https://img.shields.io/github/stars/Aakash074/IEEE-SB-NITW?style=social">
 	</a>
 </p>
