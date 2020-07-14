@@ -312,7 +312,13 @@ iframe {
   margin-left: 50px;
   border-bottom: none;
 }
-
+.lzy1Td{
+  height:auto ;
+  width :40px;
+}
+.navbar-brand{
+  padding-left: 3vw;
+}
 .navbar-custom .navbar-brand {
   text-transform: uppercase;
   color: #fff !important;

@@ -8,9 +8,10 @@ class Navbar extends React.Component {
 
 
 
-
           <nav class="navbar navbar-expand-md navbar-dark bg-dark">
+            <img src="images\apple-touch-icon-72x72.png" class="lzy1Td" role="img" aria-label="Site home" jsname="SwcDWb"/>
               <a href="#" class="navbar-brand">IEEE-SB-NITW</a>
+
               <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
                   <span class="navbar-toggler-icon"></span>
               </button>
