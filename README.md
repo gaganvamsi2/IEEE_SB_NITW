@@ -49,7 +49,7 @@ $ firebase deployment
 <tbody>
   <tr>
     <td align="center" valign="top" width="11%">
-      <a href="https://github.com/gagamvamsi2">
+      <a href="https://github.com/gaganvamsi2">
         <img
           alt="Web Developer"
           src="https://avatars1.githubusercontent.com/u/38627023?s=400&v=4"
