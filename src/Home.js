@@ -107,8 +107,7 @@ class Home extends React.Component {
         {/* Team Component*/}
         <Team />
 
-        {/* Process Component*/}
-        <Process />
+
 
         {/* Testi Component*/}
         <Testi />
@@ -118,6 +117,9 @@ class Home extends React.Component {
         {/* Started Component*/}
         <Started />
 
+        {/* Process Component*/}
+        <Process />
+        
         {/* Contact Component*/}
         <Contact />
 
