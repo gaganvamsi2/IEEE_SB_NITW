@@ -2,6 +2,29 @@
    1.BASIC
    ========== */
 
+
+
+
+
+   .slider1{
+     margin-left:0px;
+   }
+
+
+
+
+
+
+
+
+   html,body{
+       overflow-x: hidden;
+   }
+
+.container1{
+  margin:auto 10;
+}
+
 body {
   font-family: 'Rubik', sans-serif;
   overflow-x: hidden !important;
@@ -11,7 +34,7 @@ body {
 
 #navbar1 {
   background-color: #333; /* Black background color */
-  position: sticky; /* Make it stick/fixed */
+  position: fixed;; /* Make it stick/fixed */
   top: 0; /* Stay on top */
   width: 100%; /* Full width */
   transition: top 0.3s; /* Transition effect when sliding down (and up) */
@@ -149,8 +172,12 @@ section .section-title {
     border-radius: 50%;
 }
 
-
-
+.card-body h4{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.card-body h3{
+  font-size: 20px;
+}
 
 
 
@@ -1504,11 +1531,9 @@ ul.pattern .color8 {
 
 .slide-container {
   width: 100%;
-  margin-left: 80px;
+
 }
-.slider1{
-  margin-left:15px;
-}
+
 .each-slide > div {
   display: flex;
   align-items: center;
