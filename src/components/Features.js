@@ -80,7 +80,7 @@ class Features extends React.Component {
             </div>
             <div className="col-lg-7">
               <div className="features-img features-right text-right">
-                <div className="slide-container">
+                <div className="slide-container slider1">
                   <Fade {...fadeProperties}>
                     <div className="each-fade">
                       <div className="image-container">

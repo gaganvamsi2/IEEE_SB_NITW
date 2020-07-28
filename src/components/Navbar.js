@@ -4,26 +4,27 @@ class Navbar extends React.Component {
   render() {
     return (
 
-  <div class="bs-example">
+  <div class="bs-example" id="navbar1"  >
 
 
 
-          <nav class="navbar navbar-expand-md navbar-dark bg-dark">
-            <img src="images\apple-touch-icon-72x72.png" class="lzy1Td" role="img" aria-label="Site home" jsname="SwcDWb"/>
-              <a href="#" class="navbar-brand">IEEE-SB-NITW</a>
 
-              <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+          <nav class="navbar navbar-expand-md navbar-dark bg-dark"   >
+          <img src="images\apple-touch-icon-72x72.png" class="lzy1Td" role="img" aria-label="Site home" jsname="SwcDWb"/>
+
+              <a href="#" class="navbar-brand">IEEE_SB_NITW</a>
+              <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse" onclick="myFunction()">
                   <span class="navbar-toggler-icon"></span>
               </button>
 
               <div class="collapse navbar-collapse" id="navbarCollapse">
                   <div class="navbar-nav">
-                      <a href="#" class="nav-item nav-link active">Home</a>
-                      <a href="#services" class="nav-item nav-link">Goals</a>
-                      <a href="#features" class="nav-item nav-link">IEEE</a>
-                      <a href="#team" class="nav-item nav-link">TEAM</a>
-                      <a href="#pricing" class="nav-item nav-link">EVENTS</a>
-                      <a href="#contact" class="nav-item nav-link disabled" tabindex="-1">CONTACT</a>
+                      <a href="#" class="nav-item nav-link active"  data-toggle="collapse" data-target=".navbar-collapse.show">Home</a>
+                      <a href="#services" class="nav-item nav-link" data-toggle="collapse" data-target=".navbar-collapse.show">Goals</a>
+                      <a href="#features" class="nav-item nav-link" data-toggle="collapse" data-target=".navbar-collapse.show">IEEE</a>
+                      <a href="#team" class="nav-item nav-link" data-toggle="collapse" data-target=".navbar-collapse.show">TEAM</a>
+                      <a href="#pricing" class="nav-item nav-link" data-toggle="collapse" data-target=".navbar-collapse.show">EVENTS</a>
+                      <a href="#contact" class="nav-item nav-link disabled" tabindex="-1" data-toggle="collapse" data-target=".navbar-collapse.show">CONTACT</a>
                   </div>
                   <div class="navbar-nav ml-auto">
 
@@ -110,5 +111,9 @@ class Navbar extends React.Component {
     );
   }
 }
+
+
+
+
 
 export default Navbar;

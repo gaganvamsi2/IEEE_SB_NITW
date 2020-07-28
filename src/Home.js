@@ -124,7 +124,7 @@ class Home extends React.Component {
         <FooterLinks />
 
         {/* Switcher Component*/}
-        <Switcher />
+        
       </Aux>
     );
   }
