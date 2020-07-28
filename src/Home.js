@@ -42,7 +42,7 @@ class Home extends React.Component {
             style={{
               position: 'fixed',
               width: '100vw',
-              height: '100vw'
+              height: '100vh'
             }}
           />
         </div>
