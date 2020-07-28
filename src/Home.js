@@ -46,7 +46,10 @@ class Home extends React.Component {
             }}
           />
         </div>
+
     <section className="section bg-home home-half" id="home">
+
+
           <div className="bg-overlay"/>
 
           <div className="display-table">
@@ -54,6 +57,7 @@ class Home extends React.Component {
               <div className="container">
                 <div className="row">
                   <div className="col-lg-8 offset-lg-2 text-white text-center">
+
                     <p className="padding-t-15 home-desc">
                       You have the next great idea to present to the world. Explore the world through IEEE
                     </p>
@@ -96,6 +100,10 @@ class Home extends React.Component {
         {/* Pricing Component*/}
         <Pricing />
 
+        {/* Blog Component*/}
+        <Blog />
+
+
         {/* Team Component*/}
         <Team />
 
@@ -105,8 +113,7 @@ class Home extends React.Component {
         {/* Testi Component*/}
         <Testi />
 
-        {/* Blog Component*/}
-        <Blog />
+
 
         {/* Started Component*/}
         <Started />
@@ -124,7 +131,7 @@ class Home extends React.Component {
         <FooterLinks />
 
         {/* Switcher Component*/}
-        
+
       </Aux>
     );
   }

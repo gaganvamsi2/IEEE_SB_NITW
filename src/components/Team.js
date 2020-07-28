@@ -34,8 +34,8 @@ class Team extends React.Component {
                               <div class="backside">
                                   <div class="card">
                                       <div class="card-body text-center mt-4">
-                                          <h4 class="card-title">Sunlimetech</h4>
-                                          <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
+                                      <h4 class="card-title">Vishal Vinod </h4>
+                                    <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
                                           <ul class="list-inline">
 
                                               <li class="list-inline-item">
@@ -76,8 +76,8 @@ class Team extends React.Component {
                               <div class="backside">
                                   <div class="card">
                                       <div class="card-body text-center mt-4">
-                                          <h4 class="card-title">Sunlimetech</h4>
-                                          <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
+                                      <h4 class="card-title">Ruben Easo Thomas  </h4>
+                                    <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
                                           <ul class="list-inline">
 
                                               <li class="list-inline-item">
@@ -118,8 +118,8 @@ class Team extends React.Component {
                               <div class="backside">
                                   <div class="card">
                                       <div class="card-body text-center mt-4">
-                                          <h4 class="card-title">Sunlimetech</h4>
-                                          <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
+                                      <h4 class="card-title">Anshika Shrivastav </h4>
+                                      <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
                                           <ul class="list-inline">
 
                                               <li class="list-inline-item">
@@ -144,32 +144,33 @@ class Team extends React.Component {
                           </div>
                       </div>
                   </div>
+
                   <div class="col-xs-12 col-sm-6 col-md-4">
                       <div class="image-flip" >
                           <div class="mainflip flip-0">
                               <div class="frontside">
                                   <div class="card">
                                       <div class="card-body text-center">
-                                          <p><img class=" img-fluid" src="" alt="card image"/></p>
-                                          <h4 class="card-title">Sourab Saju Paul </h4>
-                                          <h3 class="card-text">Vice Chairman  </h3>
+                                          <p><img class=" img-fluid" src="images/team/abin.jpeg" alt="card image"/></p>
+                                          <h4 class="card-title">Abin Jose Abraham  </h4>
+                                          <h3 class="card-text">Designer   </h3>
                                       </div>
                                   </div>
                               </div>
                               <div class="backside">
                                   <div class="card">
                                       <div class="card-body text-center mt-4">
-                                          <h4 class="card-title">Sunlimetech</h4>
-                                          <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
+                                      <h4 class="card-title">Abin Jose Abraham  </h4>
+                                      <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
                                           <ul class="list-inline">
 
                                               <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="http://linkedin.com/in/sourab-saju-b2349916ab">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.linkedin.com/in/abin-jose-abraham-b01519190">
                                                       <i class="fa fa-linkedin"></i>
                                                   </a>
                                               </li>
                                               <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="http://linkedin.com/in/sourab-saju-b2349916a">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.instagram.com/abinjoseabraham ">
                                                       <i class="fa fa-instagram"></i>
                                                   </a>
                                               </li>
@@ -187,6 +188,47 @@ class Team extends React.Component {
                   </div>
 
 
+                  <div class="col-xs-12 col-sm-6 col-md-4">
+                      <div class="image-flip" >
+                          <div class="mainflip flip-0">
+                              <div class="frontside">
+                                  <div class="card">
+                                      <div class="card-body text-center">
+                                          <p><img class=" img-fluid" src="images/team/divya.jpeg" alt="card image"/></p>
+                                          <h4 class="card-title">Venkata Sai Sreedivya Vadali  </h4>
+                                          <h3 class="card-text">Design Head   </h3>
+                                      </div>
+                                  </div>
+                              </div>
+                              <div class="backside">
+                                  <div class="card">
+                                      <div class="card-body text-center mt-4">
+                                      <h4 class="card-title">Venkata Sai Sreedivya Vadali  </h4>
+                                      <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
+                                          <ul class="list-inline">
+
+                                              <li class="list-inline-item">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.linkedin.com/mwlite/in/vvs-divya-869b591777">
+                                                      <i class="fa fa-linkedin"></i>
+                                                  </a>
+                                              </li>
+                                              <li class="list-inline-item">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.instagram.com/vvs_divya/">
+                                                      <i class="fa fa-instagram"></i>
+                                                  </a>
+                                              </li>
+                                              <li class="list-inline-item">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="">
+                                                      <i class="fa fa-google"></i>
+                                                  </a>
+                                              </li>
+                                          </ul>
+                                      </div>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
 
                   <div class="col-xs-12 col-sm-6 col-md-4">
                       <div class="image-flip" >
@@ -203,8 +245,8 @@ class Team extends React.Component {
                               <div class="backside">
                                   <div class="card">
                                       <div class="card-body text-center mt-4">
-                                          <h4 class="card-title">Sunlimetech</h4>
-                                          <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
+                                      <h4 class="card-title">Saketh</h4>
+                                      <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
                                           <ul class="list-inline">
 
                                               <li class="list-inline-item">
@@ -214,295 +256,6 @@ class Team extends React.Component {
                                               </li>
                                               <li class="list-inline-item">
                                                   <a class="social-icon text-xs-center" target="_blank" href="">
-                                                      <i class="fa fa-instagram"></i>
-                                                  </a>
-                                              </li>
-                                              <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="">
-                                                      <i class="fa fa-google"></i>
-                                                  </a>
-                                              </li>
-                                          </ul>
-                                      </div>
-                                  </div>
-                              </div>
-                          </div>
-                      </div>
-                  </div>
-
-
-                  <div class="col-xs-12 col-sm-6 col-md-4">
-                      <div class="image-flip" >
-                          <div class="mainflip flip-0">
-                              <div class="frontside">
-                                  <div class="card">
-                                      <div class="card-body text-center">
-                                          <p><img class=" img-fluid" src="images/team/vishal.jpeg" alt="card image"/></p>
-                                          <h4 class="card-title">Jessica Ann George  </h4>
-                                          <h3 class="card-text">Assistant Technical Secretary </h3>
-                                      </div>
-                                  </div>
-                              </div>
-                              <div class="backside">
-                                  <div class="card">
-                                      <div class="card-body text-center mt-4">
-                                          <h4 class="card-title">Sunlimetech</h4>
-                                          <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
-                                          <ul class="list-inline">
-
-                                              <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.linkedin.com/in/jessica-george-769b2219b ">
-                                                      <i class="fa fa-linkedin"></i>
-                                                  </a>
-                                              </li>
-                                              <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="">
-                                                      <i class="fa fa-instagram"></i>
-                                                  </a>
-                                              </li>
-                                              <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="">
-                                                      <i class="fa fa-google"></i>
-                                                  </a>
-                                              </li>
-                                          </ul>
-                                      </div>
-                                  </div>
-                              </div>
-                          </div>
-                      </div>
-                  </div>
-                  <div class="col-xs-12 col-sm-6 col-md-4">
-                      <div class="image-flip" >
-                          <div class="mainflip flip-0">
-                              <div class="frontside">
-                                  <div class="card">
-                                      <div class="card-body text-center">
-                                          <p><img class=" img-fluid" src="images/team/vishal.jpeg" alt="card image"/></p>
-                                          <h4 class="card-title">Rahul Menon  </h4>
-                                          <h3 class="card-text">Executive Member </h3>
-                                      </div>
-                                  </div>
-                              </div>
-                              <div class="backside">
-                                  <div class="card">
-                                      <div class="card-body text-center mt-4">
-                                          <h4 class="card-title">Sunlimetech</h4>
-                                          <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
-                                          <ul class="list-inline">
-
-                                              <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.linkedin.com/in/rahul-menon-u">
-                                                      <i class="fa fa-linkedin"></i>
-                                                  </a>
-                                              </li>
-                                              <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.instagram.com/pheno_menon_u?r=nametag">
-                                                      <i class="fa fa-instagram"></i>
-                                                  </a>
-                                              </li>
-                                              <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="">
-                                                      <i class="fa fa-google"></i>
-                                                  </a>
-                                              </li>
-                                          </ul>
-                                      </div>
-                                  </div>
-                              </div>
-                          </div>
-                      </div>
-                  </div>
-                  <div class="col-xs-12 col-sm-6 col-md-4">
-                      <div class="image-flip" >
-                          <div class="mainflip flip-0">
-                              <div class="frontside">
-                                  <div class="card">
-                                      <div class="card-body text-center">
-                                          <p><img class=" img-fluid" src="images/team/vishal.jpeg" alt="card image"/></p>
-                                          <h4 class="card-title">Shahana Nandy </h4>
-                                          <h3 class="card-text">WIE Vice Chair  </h3>
-                                      </div>
-                                  </div>
-                              </div>
-                              <div class="backside">
-                                  <div class="card">
-                                      <div class="card-body text-center mt-4">
-                                          <h4 class="card-title">Sunlimetech</h4>
-                                          <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
-                                          <ul class="list-inline">
-
-                                              <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="http://linkedin.com/in/shahana-nandy">
-                                                      <i class="fa fa-linkedin"></i>
-                                                  </a>
-                                              </li>
-                                              <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.instagram.com/shahana_nandy">
-                                                      <i class="fa fa-instagram"></i>
-                                                  </a>
-                                              </li>
-                                              <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="">
-                                                      <i class="fa fa-google"></i>
-                                                  </a>
-                                              </li>
-                                          </ul>
-                                      </div>
-                                  </div>
-                              </div>
-                          </div>
-                      </div>
-                  </div>
-                  <div class="col-xs-12 col-sm-6 col-md-4">
-                      <div class="image-flip" >
-                          <div class="mainflip flip-0">
-                              <div class="frontside">
-                                  <div class="card">
-                                      <div class="card-body text-center">
-                                          <p><img class=" img-fluid" src="images/team/vishal.jpeg" alt="card image"/></p>
-                                          <h4 class="card-title">Shabaaz Rafilal  </h4>
-                                          <h3 class="card-text">Membership Development Officer </h3>
-                                      </div>
-                                  </div>
-                              </div>
-                              <div class="backside">
-                                  <div class="card">
-                                      <div class="card-body text-center mt-4">
-                                          <h4 class="card-title">Sunlimetech</h4>
-                                          <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
-                                          <ul class="list-inline">
-
-                                              <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.linkedin.com/in/shabaaz-rafilal-b453a61b0">
-                                                      <i class="fa fa-linkedin"></i>
-                                                  </a>
-                                              </li>
-                                              <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.instagram.com/shabaaz_rafilal ">
-                                                      <i class="fa fa-instagram"></i>
-                                                  </a>
-                                              </li>
-                                              <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="">
-                                                      <i class="fa fa-google"></i>
-                                                  </a>
-                                              </li>
-                                          </ul>
-                                      </div>
-                                  </div>
-                              </div>
-                          </div>
-                      </div>
-                  </div>
-                  <div class="col-xs-12 col-sm-6 col-md-4">
-                      <div class="image-flip" >
-                          <div class="mainflip flip-0">
-                              <div class="frontside">
-                                  <div class="card">
-                                      <div class="card-body text-center">
-                                          <p><img class=" img-fluid" src="images/team/vishal.jpeg" alt="card image"/></p>
-                                          <h4 class="card-title">Anisha S </h4>
-                                          <h3 class="card-text">Executive Member </h3>
-                                      </div>
-                                  </div>
-                              </div>
-                              <div class="backside">
-                                  <div class="card">
-                                      <div class="card-body text-center mt-4">
-                                          <h4 class="card-title">Sunlimetech</h4>
-                                          <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
-                                          <ul class="list-inline">
-
-                                              <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.linkedin.com/in/anisha-s-97027a157">
-                                                      <i class="fa fa-linkedin"></i>
-                                                  </a>
-                                              </li>
-                                              <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.instagram.com/anisha2407/">
-                                                      <i class="fa fa-instagram"></i>
-                                                  </a>
-                                              </li>
-                                              <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="">
-                                                      <i class="fa fa-google"></i>
-                                                  </a>
-                                              </li>
-                                          </ul>
-                                      </div>
-                                  </div>
-                              </div>
-                          </div>
-                      </div>
-                  </div>
-                  <div class="col-xs-12 col-sm-6 col-md-4">
-                      <div class="image-flip" >
-                          <div class="mainflip flip-0">
-                              <div class="frontside">
-                                  <div class="card">
-                                      <div class="card-body text-center">
-                                          <p><img class=" img-fluid" src="images/team/vishal.jpeg" alt="card image"/></p>
-                                          <h4 class="card-title">Rithik Kumar </h4>
-                                          <h3 class="card-text">Executive Member  </h3>
-                                      </div>
-                                  </div>
-                              </div>
-                              <div class="backside">
-                                  <div class="card">
-                                      <div class="card-body text-center mt-4">
-                                          <h4 class="card-title">Sunlimetech</h4>
-                                          <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
-                                          <ul class="list-inline">
-
-                                              <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.linkedin.com/in/rithik-kumar-5b2606157/">
-                                                      <i class="fa fa-linkedin"></i>
-                                                  </a>
-                                              </li>
-                                              <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.instagram.com/rithik.kumar_3/">
-                                                      <i class="fa fa-instagram"></i>
-                                                  </a>
-                                              </li>
-                                              <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="">
-                                                      <i class="fa fa-google"></i>
-                                                  </a>
-                                              </li>
-                                          </ul>
-                                      </div>
-                                  </div>
-                              </div>
-                          </div>
-                      </div>
-                  </div>
-                  <div class="col-xs-12 col-sm-6 col-md-4">
-                      <div class="image-flip" >
-                          <div class="mainflip flip-0">
-                              <div class="frontside">
-                                  <div class="card">
-                                      <div class="card-body text-center">
-                                          <p><img class=" img-fluid" src="images/team/vishal.jpeg" alt="card image"/></p>
-                                          <h4 class="card-title">Abin Jose Abraham  </h4>
-                                          <h3 class="card-text">Designer   </h3>
-                                      </div>
-                                  </div>
-                              </div>
-                              <div class="backside">
-                                  <div class="card">
-                                      <div class="card-body text-center mt-4">
-                                          <h4 class="card-title">Sunlimetech</h4>
-                                          <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
-                                          <ul class="list-inline">
-
-                                              <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.linkedin.com/in/abin-jose-abraham-b01519190">
-                                                      <i class="fa fa-linkedin"></i>
-                                                  </a>
-                                              </li>
-                                              <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.instagram.com/abinjoseabraham ">
                                                       <i class="fa fa-instagram"></i>
                                                   </a>
                                               </li>
@@ -533,8 +286,8 @@ class Team extends React.Component {
                               <div class="backside">
                                   <div class="card">
                                       <div class="card-body text-center mt-4">
-                                          <h4 class="card-title">Sunlimetech</h4>
-                                          <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
+                                      <h4 class="card-title">Avinash </h4>
+                                    <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
                                           <ul class="list-inline">
 
                                               <li class="list-inline-item">
@@ -565,89 +318,7 @@ class Team extends React.Component {
                               <div class="frontside">
                                   <div class="card">
                                       <div class="card-body text-center">
-                                          <p><img class=" img-fluid" src="images/team/vishal.jpeg" alt="card image"/></p>
-                                          <h4 class="card-title">Ankith Suresh  </h4>
-                                          <h3 class="card-text">Executive Member   </h3>
-                                      </div>
-                                  </div>
-                              </div>
-                              <div class="backside">
-                                  <div class="card">
-                                      <div class="card-body text-center mt-4">
-                                          <h4 class="card-title">Sunlimetech</h4>
-                                          <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
-                                          <ul class="list-inline">
-
-                                              <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.linkedin.com/in/ankith-suresh-081b92187">
-                                                      <i class="fa fa-linkedin"></i>
-                                                  </a>
-                                              </li>
-                                              <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="blank" href="https://www.instagram.com/ankithsuresh">
-                                                      <i class="fa fa-instagram"></i>
-                                                  </a>
-                                              </li>
-                                              <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="">
-                                                      <i class="fa fa-google"></i>
-                                                  </a>
-                                              </li>
-                                          </ul>
-                                      </div>
-                                  </div>
-                              </div>
-                          </div>
-                      </div>
-                  </div>
-                  <div class="col-xs-12 col-sm-6 col-md-4">
-                      <div class="image-flip" >
-                          <div class="mainflip flip-0">
-                              <div class="frontside">
-                                  <div class="card">
-                                      <div class="card-body text-center">
-                                          <p><img class=" img-fluid" src="images/team/divya.jpeg" alt="card image"/></p>
-                                          <h4 class="card-title">Venkata Sai Sreedivya Vadali  </h4>
-                                          <h3 class="card-text">Design Head   </h3>
-                                      </div>
-                                  </div>
-                              </div>
-                              <div class="backside">
-                                  <div class="card">
-                                      <div class="card-body text-center mt-4">
-                                          <h4 class="card-title">Sunlimetech</h4>
-                                          <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
-                                          <ul class="list-inline">
-
-                                              <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.linkedin.com/mwlite/in/vvs-divya-869b591777">
-                                                      <i class="fa fa-linkedin"></i>
-                                                  </a>
-                                              </li>
-                                              <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.instagram.com/vvs_divya/">
-                                                      <i class="fa fa-instagram"></i>
-                                                  </a>
-                                              </li>
-                                              <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="">
-                                                      <i class="fa fa-google"></i>
-                                                  </a>
-                                              </li>
-                                          </ul>
-                                      </div>
-                                  </div>
-                              </div>
-                          </div>
-                      </div>
-                  </div>
-                  <div class="col-xs-12 col-sm-6 col-md-4">
-                      <div class="image-flip" >
-                          <div class="mainflip flip-0">
-                              <div class="frontside">
-                                  <div class="card">
-                                      <div class="card-body text-center">
-                                          <p><img class=" img-fluid" src="images/team/vishal.jpeg" alt="card image"/></p>
+                                          <p><img class=" img-fluid" src="images/team/rohan.jpeg" alt="card image"/></p>
                                           <h4 class="card-title">Rohan Narula  </h4>
                                           <h3 class="card-text">Assistant Activities Secretary   </h3>
                                       </div>
@@ -656,8 +327,8 @@ class Team extends React.Component {
                               <div class="backside">
                                   <div class="card">
                                       <div class="card-body text-center mt-4">
-                                          <h4 class="card-title">Sunlimetech</h4>
-                                          <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
+                                      <h4 class="card-title">Rohan Narula  </h4>
+                                      <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
                                           <ul class="list-inline">
 
                                               <li class="list-inline-item">
@@ -683,6 +354,341 @@ class Team extends React.Component {
                       </div>
                   </div>
 
+                  <div class="col-xs-12 col-sm-6 col-md-4">
+                      <div class="image-flip" >
+                          <div class="mainflip flip-0">
+                              <div class="frontside">
+                                  <div class="card">
+                                      <div class="card-body text-center">
+                                          <p><img class=" img-fluid" src="images/team/anisha.jpeg" alt="card image"/></p>
+                                          <h4 class="card-title">Anisha S </h4>
+                                          <h3 class="card-text">Executive Member </h3>
+                                      </div>
+                                  </div>
+                              </div>
+                              <div class="backside">
+                                  <div class="card">
+                                      <div class="card-body text-center mt-4">
+                                      <h4 class="card-title">Anisha S </h4>
+                                      <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
+                                          <ul class="list-inline">
+
+                                              <li class="list-inline-item">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.linkedin.com/in/anisha-s-97027a157">
+                                                      <i class="fa fa-linkedin"></i>
+                                                  </a>
+                                              </li>
+                                              <li class="list-inline-item">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.instagram.com/anisha2407/">
+                                                      <i class="fa fa-instagram"></i>
+                                                  </a>
+                                              </li>
+                                              <li class="list-inline-item">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="">
+                                                      <i class="fa fa-google"></i>
+                                                  </a>
+                                              </li>
+                                          </ul>
+                                      </div>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+
+
+                  <div class="col-xs-12 col-sm-6 col-md-4">
+                      <div class="image-flip" >
+                          <div class="mainflip flip-0">
+                              <div class="frontside">
+                                  <div class="card">
+                                      <div class="card-body text-center">
+                                          <p><img class=" img-fluid" src="images/team/vishl.jpeg" alt="card image"/></p>
+                                          <h4 class="card-title">Jessica Ann George  </h4>
+                                          <h3 class="card-text">Assistant Technical Secretary </h3>
+                                      </div>
+                                  </div>
+                              </div>
+                              <div class="backside">
+                                  <div class="card">
+                                      <div class="card-body text-center mt-4">
+                                      <h4 class="card-title">Jessica Ann George  </h4>
+                                        <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
+                                          <ul class="list-inline">
+
+                                              <li class="list-inline-item">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.linkedin.com/in/jessica-george-769b2219b ">
+                                                      <i class="fa fa-linkedin"></i>
+                                                  </a>
+                                              </li>
+                                              <li class="list-inline-item">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="">
+                                                      <i class="fa fa-instagram"></i>
+                                                  </a>
+                                              </li>
+                                              <li class="list-inline-item">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="">
+                                                      <i class="fa fa-google"></i>
+                                                  </a>
+                                              </li>
+                                          </ul>
+                                      </div>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="col-xs-12 col-sm-6 col-md-4">
+                      <div class="image-flip" >
+                          <div class="mainflip flip-0">
+                              <div class="frontside">
+                                  <div class="card">
+                                      <div class="card-body text-center">
+                                          <p><img class=" img-fluid" src="images/team/vishl.jpeg" alt="card image"/></p>
+                                          <h4 class="card-title">Rahul Menon  </h4>
+                                          <h3 class="card-text">Executive Member </h3>
+                                      </div>
+                                  </div>
+                              </div>
+                              <div class="backside">
+                                  <div class="card">
+                                      <div class="card-body text-center mt-4">
+                                      <h4 class="card-title">Rahul Menon  </h4>
+                                      <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
+                                          <ul class="list-inline">
+
+                                              <li class="list-inline-item">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.linkedin.com/in/rahul-menon-u">
+                                                      <i class="fa fa-linkedin"></i>
+                                                  </a>
+                                              </li>
+                                              <li class="list-inline-item">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.instagram.com/pheno_menon_u?r=nametag">
+                                                      <i class="fa fa-instagram"></i>
+                                                  </a>
+                                              </li>
+                                              <li class="list-inline-item">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="">
+                                                      <i class="fa fa-google"></i>
+                                                  </a>
+                                              </li>
+                                          </ul>
+                                      </div>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="col-xs-12 col-sm-6 col-md-4">
+                      <div class="image-flip" >
+                          <div class="mainflip flip-0">
+                              <div class="frontside">
+                                  <div class="card">
+                                      <div class="card-body text-center">
+                                          <p><img class=" img-fluid" src="images/team/vihal.jpeg" alt="card image"/></p>
+                                          <h4 class="card-title">Shahana Nandy </h4>
+                                          <h3 class="card-text">WIE Vice Chair  </h3>
+                                      </div>
+                                  </div>
+                              </div>
+                              <div class="backside">
+                                  <div class="card">
+                                      <div class="card-body text-center mt-4">
+                                      <h4 class="card-title">Shahana Nandy </h4>
+                                      <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
+                                          <ul class="list-inline">
+
+                                              <li class="list-inline-item">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="http://linkedin.com/in/shahana-nandy">
+                                                      <i class="fa fa-linkedin"></i>
+                                                  </a>
+                                              </li>
+                                              <li class="list-inline-item">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.instagram.com/shahana_nandy">
+                                                      <i class="fa fa-instagram"></i>
+                                                  </a>
+                                              </li>
+                                              <li class="list-inline-item">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="">
+                                                      <i class="fa fa-google"></i>
+                                                  </a>
+                                              </li>
+                                          </ul>
+                                      </div>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="col-xs-12 col-sm-6 col-md-4">
+                      <div class="image-flip" >
+                          <div class="mainflip flip-0">
+                              <div class="frontside">
+                                  <div class="card">
+                                      <div class="card-body text-center">
+                                          <p><img class=" img-fluid" src="images/team/visal.jpeg" alt="card image"/></p>
+                                          <h4 class="card-title">Shabaaz Rafilal  </h4>
+                                          <h3 class="card-text">Membership Development Officer </h3>
+                                      </div>
+                                  </div>
+                              </div>
+                              <div class="backside">
+                                  <div class="card">
+                                      <div class="card-body text-center mt-4">
+                                      <h4 class="card-title">Shabaaz Rafilal  </h4>
+                                      <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
+                                          <ul class="list-inline">
+
+                                              <li class="list-inline-item">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.linkedin.com/in/shabaaz-rafilal-b453a61b0">
+                                                      <i class="fa fa-linkedin"></i>
+                                                  </a>
+                                              </li>
+                                              <li class="list-inline-item">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.instagram.com/shabaaz_rafilal ">
+                                                      <i class="fa fa-instagram"></i>
+                                                  </a>
+                                              </li>
+                                              <li class="list-inline-item">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="">
+                                                      <i class="fa fa-google"></i>
+                                                  </a>
+                                              </li>
+                                          </ul>
+                                      </div>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+
+                  <div class="col-xs-12 col-sm-6 col-md-4">
+                      <div class="image-flip" >
+                          <div class="mainflip flip-0">
+                              <div class="frontside">
+                                  <div class="card">
+                                      <div class="card-body text-center">
+                                          <p><img class=" img-fluid" src="images/team/visal.jpeg" alt="card image"/></p>
+                                          <h4 class="card-title">Rithik Kumar </h4>
+                                          <h3 class="card-text">Executive Member  </h3>
+                                      </div>
+                                  </div>
+                              </div>
+                              <div class="backside">
+                                  <div class="card">
+                                      <div class="card-body text-center mt-4">
+                                      <h4 class="card-title">Rithik Kumar </h4>
+                                      <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
+                                          <ul class="list-inline">
+
+                                              <li class="list-inline-item">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.linkedin.com/in/rithik-kumar-5b2606157/">
+                                                      <i class="fa fa-linkedin"></i>
+                                                  </a>
+                                              </li>
+                                              <li class="list-inline-item">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.instagram.com/rithik.kumar_3/">
+                                                      <i class="fa fa-instagram"></i>
+                                                  </a>
+                                              </li>
+                                              <li class="list-inline-item">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="">
+                                                      <i class="fa fa-google"></i>
+                                                  </a>
+                                              </li>
+                                          </ul>
+                                      </div>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+
+
+                  <div class="col-xs-12 col-sm-6 col-md-4">
+                      <div class="image-flip" >
+                          <div class="mainflip flip-0">
+                              <div class="frontside">
+                                  <div class="card">
+                                      <div class="card-body text-center">
+                                          <p><img class=" img-fluid" src="images/team/visal.jpeg" alt="card image"/></p>
+                                          <h4 class="card-title">Ankith Suresh  </h4>
+                                          <h3 class="card-text">Executive Member   </h3>
+                                      </div>
+                                  </div>
+                              </div>
+                              <div class="backside">
+                                  <div class="card">
+                                      <div class="card-body text-center mt-4">
+                                      <h4 class="card-title">Ankith Suresh  </h4>
+                                      <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
+                                          <ul class="list-inline">
+
+                                              <li class="list-inline-item">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.linkedin.com/in/ankith-suresh-081b92187">
+                                                      <i class="fa fa-linkedin"></i>
+                                                  </a>
+                                              </li>
+                                              <li class="list-inline-item">
+                                                  <a class="social-icon text-xs-center" target="blank" href="https://www.instagram.com/ankithsuresh">
+                                                      <i class="fa fa-instagram"></i>
+                                                  </a>
+                                              </li>
+                                              <li class="list-inline-item">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="">
+                                                      <i class="fa fa-google"></i>
+                                                  </a>
+                                              </li>
+                                          </ul>
+                                      </div>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+
+
+                  <div class="col-xs-12 col-sm-6 col-md-4">
+                      <div class="image-flip" >
+                          <div class="mainflip flip-0">
+                              <div class="frontside">
+                                  <div class="card">
+                                      <div class="card-body text-center">
+                                          <p><img class=" img-fluid" src="   images/team/visal.jpeg  " alt="card image"/></p>
+                                          <h4 class="card-title">Sourab Saju Paul </h4>
+                                          <h3 class="card-text">Vice Chairman  </h3>
+                                      </div>
+                                  </div>
+                              </div>
+                              <div class="backside">
+                                  <div class="card">
+                                      <div class="card-body text-center mt-4">
+                                          <h4 class="card-title">Sourab Saju Paul </h4>
+                                          <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
+                                          <ul class="list-inline">
+
+                                              <li class="list-inline-item">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="http://linkedin.com/in/sourab-saju-b2349916ab">
+                                                      <i class="fa fa-linkedin"></i>
+                                                  </a>
+                                              </li>
+                                              <li class="list-inline-item">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="http://linkedin.com/in/sourab-saju-b2349916a">
+                                                      <i class="fa fa-instagram"></i>
+                                                  </a>
+                                              </li>
+                                              <li class="list-inline-item">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="">
+                                                      <i class="fa fa-google"></i>
+                                                  </a>
+                                              </li>
+                                          </ul>
+                                      </div>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
 
 
 
