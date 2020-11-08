@@ -9,8 +9,12 @@
    .slider1{
      margin-left:0px;
    }
-
-
+.event-heading {
+  font-weight: bold;
+}
+.allignment {
+  text-align: left;
+}
 
 
 
@@ -618,6 +622,7 @@ iframe {
   /* background-color: #00e6e6; */
 }
 
+
 .display-table-cell {
   display: table-cell;
   vertical-align: middle;
@@ -962,7 +967,11 @@ iframe {
 .plan-features p {
   padding-top: 5px;
 }
-
+.img-fluid{
+  padding: 5px;
+  margin:0px;
+  border:0px;
+}
 /*======================================
          10. TEAM
 ========================================*/
