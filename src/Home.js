@@ -35,7 +35,9 @@ class Home extends React.Component {
       <Aux>
         {/* Navbar Component*/}
         <Navbar />
-        <div bg-home>
+
+        <div bg-home>\
+
           <StarfieldAnimation
             numParticles={1000}
             depth={1}
@@ -119,7 +121,7 @@ class Home extends React.Component {
 
         {/* Process Component*/}
         <Process />
-        
+
         {/* Contact Component*/}
         <Contact />
 
