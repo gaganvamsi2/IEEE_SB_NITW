@@ -24,7 +24,8 @@ class Navbar extends React.Component {
                       <a href="#features" class="nav-item nav-link" data-toggle="collapse" data-target=".navbar-collapse.show">IEEE</a>
                       <a href="#team" class="nav-item nav-link" data-toggle="collapse" data-target=".navbar-collapse.show">TEAM</a>
                       <a href="#pricing" class="nav-item nav-link" data-toggle="collapse" data-target=".navbar-collapse.show">EVENTS</a>
-                      <a href="#contact" class="nav-item nav-link disabled" tabindex="-1" data-toggle="collapse" data-target=".navbar-collapse.show">CONTACT</a>
+                      <a href="#contact" class="nav-item nav-link" data-toggle="collapse" data-target=".navbar-collapse.show">CONTACT</a>
+
                   </div>
                   <div class="navbar-nav ml-auto">
 
