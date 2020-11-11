@@ -13,16 +13,16 @@ class Footer extends React.Component {
               <div className="text-muted margin-t-20">
                 <ul className="list-unstyled footer-list">
                   <li>
-                    <Link to="JavaScript:Void(0);">Home</Link>
+                     <a href="#home">Home</a>
                   </li>
                   <li>
-                    <Link to="JavaScript:Void(0);">About us</Link>
+                    <a href="#team">About us</a>
                   </li>
                   <li>
-                    <Link to="JavaScript:Void(0);">Careers</Link>
+                    <a href="#pricing">Events</a>
                   </li>
                   <li>
-                    <Link to="JavaScript:Void(0);">Contact us</Link>
+                    <a href="#contact">Contact us</a>
                   </li>
                 </ul>
               </div>
@@ -32,16 +32,16 @@ class Footer extends React.Component {
               <div className="text-muted margin-t-20">
                 <ul className="list-unstyled footer-list">
                   <li>
-                    <Link to="JavaScript:Void(0);">Terms & Condition</Link>
+                    <a href="https://www.ieee.org/about/help/site-terms-conditions.html">terms and conditions</a>
                   </li>
                   <li>
-                    <Link to="JavaScript:Void(0);">About us</Link>
+                    <a href="#team">About us</a>
                   </li>
                   <li>
-                    <Link to="JavaScript:Void(0);">Jobs</Link>
+                    <a href="#services">Our Goals</a>
                   </li>
                   <li>
-                    <Link to="JavaScript:Void(0);">Bookmarks</Link>
+                    <a href="https://www.ieee.org/conferences/index.html">IEEE conferences</a>
                   </li>
                 </ul>
               </div>
@@ -51,32 +51,26 @@ class Footer extends React.Component {
               <div className="text-muted margin-t-20">
                 <ul className="list-unstyled footer-list">
                   <li>
-                    <Link to="JavaScript:Void(0);">FAQ</Link>
+                    <a href="#blog">IEEE news room</a>
                   </li>
                   <li>
-                    <Link to="JavaScript:Void(0);">Contact</Link>
+                    <a href="mailto:123gmail.com">contact</a>
                   </li>
                   <li>
-                    <Link to="JavaScript:Void(0);">Disscusion</Link>
+                  <a href="https://www.ieee.org/communities/societies/index.html">Disscusion</a>
                   </li>
                 </ul>
               </div>
             </div>
             <div className="col-lg-3 margin-t-20">
-              <h4>Subscribe</h4>
+              <h4>Feedback</h4>
               <div className="text-muted margin-t-20">
                 <p>
-                  In an ideal world this text wouldn’t exist, a client would
-                  acknowledge the importance of having web copy before the
-                  design starts.
+                  Feedback is a gift. Ideas are the currency of our next success. Let
+people see you value both feedback and ideas.
                 </p>
               </div>
-              <form className="form subscribe">
-                <input placeholder="Email" className="form-control" required />
-                <Link to="JavaScript:Void(0);" className="submit">
-                  <i className="pe-7s-paper-plane"></i>
-                </Link>
-              </form>
+              <h4 href="mailto:123gmail.com">Mail us</h4>
             </div>
           </div>
         </div>
