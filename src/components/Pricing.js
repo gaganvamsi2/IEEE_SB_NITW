@@ -19,22 +19,22 @@ class Pricing extends React.Component {
           <div className="row margin-t-50">
             <div className="col-lg-4">
               <div className=" pricing-box hover-effect">
-                <h4 className="text-uppercase event-heading text-center">Advanced carrers in management</h4>
-                <p><img class=" img-fluid" src="/images/events/event1.jpeg" alt="card image"/></p>
+                <h4 className="text-uppercase event-heading text-center">Recruited talks</h4>
+                <p><img class=" img-fluid" src="/images/events/event3.jpeg" alt="card image"/></p>
                 <div className="plan-features ">
                   <p>
                   Greetings from IEEE SB NITW !
-<h5> 1) Making the decision to pursue MBA after engineering and how to prepare for it.</h5>
-<h5>2) Description of what life is like at a Business School.</h5>
-<h5>3) The opportunities and future prospects of an MBA graduate.</h5>
+<h5> 1)For the first installment, we have Jovita Varghese - a 3rd year Chemical Engineering undergraduate who's bagged a coveted internship at ITC. </h5>
+<h5>2)Click the link to find out more, and don't forget to follow us for updates!</h5>
 
-This is for those of you with questions and doubts related to preparation for CAT/XAT/IIM etc.
+
+
 
                   </p>
                 </div>
         <div className=" text-center  ">
                 <a
-                  href="https://docs.google.com/forms/d/e/1FAIpQLSeIPdvINxaHPoyKCxBDIFSR8QITcWGEsEerNhAhq9dNAVyR0Q/viewform?usp=pp_url" target="_blank"
+                  href="https://drive.google.com/drive/folders/1vjoB-8xeO2OPgiNPOGVgLGIi-vtxQ2kH?usp=sharing" target="_blank"
                   className="btn btn-custom waves-effect waves-light margin-t-30 text-center"
                 >
                   Link
@@ -67,34 +67,30 @@ This is for those of you with questions and doubts related to preparation for CA
             </div>
             </div>
             <div className="col-lg-4">
-              <div className="text-center pricing-box hover-effect">
-                <h4 className="text-uppercase">Project1</h4>
-                <h1>something</h1>
-                <h6 className="text-uppercase text-muted">Blah blah</h6>
-                <div className="plan-features margin-t-30">
+              <div className=" pricing-box hover-effect">
+                <h4 className="text-uppercase event-heading text-center">Advanced carrers in management</h4>
+                <p><img class=" img-fluid" src="/images/events/event1.jpeg" alt="card image"/></p>
+                <div className="plan-features ">
                   <p>
-                    date: <b className="text-custom">some date</b>
-                  </p>
-                  <p>
-                    Field: <b className="text-custom">info</b>
-                  </p>
-                  <p>
-                    Some other things: <b className="text-custom">info</b>
-                  </p>
-                  <p>
-                    <b className="text-custom">1</b> info
-                  </p>
-                  <p>
-                    <b className="text-custom">No</b> info
+                  Greetings from IEEE SB NITW !
+<h5> 1) Making the decision to pursue MBA after engineering and how to prepare for it.</h5>
+<h5>2) Description of what life is like at a Business School.</h5>
+<h5>3) The opportunities and future prospects of an MBA graduate.</h5>
+
+This is for those of you with questions and doubts related to preparation for CAT/XAT/IIM etc.
+
                   </p>
                 </div>
-                <Link
-                  to="JavaScript:Void(0);"
-                  className="btn btn-custom waves-effect waves-light margin-t-30"
+        <div className=" text-center  ">
+                <a
+                  href="https://docs.google.com/forms/d/e/1FAIpQLSeIPdvINxaHPoyKCxBDIFSR8QITcWGEsEerNhAhq9dNAVyR0Q/viewform?usp=pp_url" target="_blank"
+                  className="btn btn-custom waves-effect waves-light margin-t-30 text-center"
                 >
-                  Details
-                </Link>
+                  Link
+                </a>
+
               </div>
+            </div>
             </div>
           </div>
         </div>

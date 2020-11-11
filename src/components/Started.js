@@ -18,9 +18,9 @@ class Started extends React.Component {
                 Far far away, behind the word mountains, far from the countries
                 Vokalia and Consonantia, there live the blind texts.{' '}
               </p>
-              <a
+              <a className="btn btn-bg-white waves-effect margin-t-20 mb-4"
                 href="https://www.ieee.org/membership/join/index.html?WT.mc_id=hc_join"
-                className="btn btn-bg-white waves-effect margin-t-20 mb-4"
+
               >
                 Get Started
               </a>
