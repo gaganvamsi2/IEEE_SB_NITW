@@ -21,23 +21,16 @@ class Blog extends React.Component {
           <div className="row margin-t-30">
             <div className="col-lg-4">
               <div className="blog-box margin-t-30 hover-effect">
-                <img src="images/blog/img-1.jpg" className="img-fluid" alt="" />
+                <img src="images/news/1.jpg" className="img-fluid" alt="" />
                 <div>
-                  <h5 className="mt-4 text-muted">UI & UX Design</h5>
-                  <h4 className="mt-3">
-                    <Link to="JavaScript:Void(0);" className="blog-title">
-                      {' '}
-                      Doing a cross country road trip{' '}
-                    </Link>
-                  </h4>
-                  <p className="text-muted">
-                    She packed her seven versalia, put her initial into the belt
-                    and made herself on the way..
+                  <h5 className="mt-4 text-muted">IEEE Annual Election</h5>
+
+                  <p className="mt-3 newsbold">
+                    IEEE Fellow K. J. Ray Liu was elected as the 2021 IEEE President-Elect.
                   </p>
                   <div className="mt-3">
-                    <Link to="JavaScript:Void(0);" className="read-btn">
-                      Read More <i className="mdi mdi-arrow-right"></i>
-                    </Link>
+                    <a className="mdi mdi-arrow-right read-btn" href="https://www.ieee.org/about/corporate/election/index.html?utm_source=whatshappening_text&utm_medium=hp&utm_campaign=ieee-election-2020">
+                      Read More </a>
                   </div>
                 </div>
               </div>
@@ -45,22 +38,16 @@ class Blog extends React.Component {
 
             <div className="col-lg-4">
               <div className="blog-box margin-t-30 hover-effect">
-                <img src="images/blog/img-2.jpg" className="img-fluid" alt="" />
+                <img src="images/news/2.jpg" className="img-fluid" alt="" />
                 <div>
-                  <h5 className="mt-4 text-muted">Digital Marketing</h5>
-                  <h4 className="mt-3">
-                    <Link to="JavaScript:Void(0);" className="blog-title">
-                      New exhibition at our Museum
-                    </Link>
-                  </h4>
-                  <p className="text-muted">
-                    Pityful a rethoric question ran over her cheek, then she
-                    continued her way.
+                  <h5 className="mt-4 text-muted">Bridging the 4G/5G Gap</h5>
+
+                  <p className="mt-3 newsbold">
+                    Wireless technologies have become a fundamental part of daily life in the 21st century. Join IEEE on 12 November at 1 p.m. ET (18:00 UTC-05) to understand the effects cellular networks have on society and commerce. IEEE members can save US$20.
                   </p>
                   <div className="mt-3">
-                    <Link to="JavaScript:Void(0);" className="read-btn">
-                      Read More <i className="mdi mdi-arrow-right"></i>
-                    </Link>
+                    <a className="mdi mdi-arrow-right read-btn" href="https://iln.ieee.org/Public/ContentDetails.aspx?id=953BE2BC603B418EA2693A1A37B89F35&utm_source=ieee&utm_medium=site&utm_campaign=5Gvenov2020?utm_source=whatshappening_text&utm_medium=hp&utm_campaign=virtual-4g5g&_ga=2.172530275.1993286808.1605106582-2066660497.1597035658">
+                      Read More </a>
                   </div>
                 </div>
               </div>
@@ -68,22 +55,16 @@ class Blog extends React.Component {
 
             <div className="col-lg-4">
               <div className="blog-box margin-t-30 hover-effect">
-                <img src="images/blog/img-3.jpg" className="img-fluid" alt="" />
+                <img src="images/news/3.jpg" className="img-fluid" alt="" />
                 <div>
-                  <h5 className="mt-4 text-muted">Travelling</h5>
-                  <h4 className="mt-3">
-                    <Link to="JavaScript:Void(0);" className="blog-title">
-                      Why are so many people..
-                    </Link>
-                  </h4>
-                  <p className="text-muted">
-                    Far far away, behind the word mountains, far from the
-                    countries Vokalia and Consonantia.
+                  <h5 className="mt-4 text-muted">Societies</h5>
+
+                  <p className="mt-3 newsbold">
+                    Society memberships enable you to stay current within your technology profession, keep in touch with peers, and invest in your career.
                   </p>
                   <div className="mt-3">
-                    <Link to="JavaScript:Void(0);" className="read-btn">
-                      Read More <i className="mdi mdi-arrow-right"></i>
-                    </Link>
+                    <a className="mdi mdi-arrow-right read-btn" href="https://www.ieee.org/communities/societies/index.html?utm_source=whatshappening_text&utm_medium=hp&utm_campaign=societies">
+                      Read More </a>
                   </div>
                 </div>
               </div>
