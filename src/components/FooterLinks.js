@@ -12,9 +12,6 @@ class FooterLinks extends React.Component {
                   {new Date().getFullYear()} © IEEE-SB NITW
                 </p>
               </div>
-              <div className="float-right pull-none ">
-                <img src="images/payment.png" alt="payment-img" height="36" />
-              </div>
               <div className="clearfix"></div>
             </div>
           </div>
