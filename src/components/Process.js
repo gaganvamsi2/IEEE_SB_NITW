@@ -51,12 +51,12 @@ class Process extends React.Component {
               </div>
             </div>
             <div className="text-center mx-auto">
-              <Link
-                to="JavaScript:Void(0);"
+            <a
+              href="https://www.ieee.org/membership/join/index.html?WT.mc_id=hc_join"
                 className="btn btn-custom waves-light waves-effect margin-t-50"
               >
                 Get Started <i className="mdi mdi-arrow-right"></i>
-              </Link>
+              </a>
             </div>
           </div>
         </div>
