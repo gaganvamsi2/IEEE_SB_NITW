@@ -13,10 +13,10 @@ class Descriptions extends React.Component {
           <div className="row">
             <div className="col-lg-12 text-center">
               <h2 className="text-white">
-                Explore IEEE & and some writeup
+                Explore IEEE &  writeup needed
               </h2>
               <p className="padding-t-15 home-desc">
-                Joining writeup
+                 writeup needed
               </p>
               <Link
                 to="SignUp"

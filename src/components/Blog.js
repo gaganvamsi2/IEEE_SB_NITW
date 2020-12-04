@@ -11,9 +11,7 @@ class Blog extends React.Component {
               <h1 className="section-title text-center">News</h1>
               <div className="section-title-border margin-t-20"></div>
               <p className="section-subtitle text-muted text-center font-secondary padding-t-30">
-                Separated they live in Bookmarksgrove right at the coast of the
-                Semantics, a large language ocean className at a euismod mus
-                luctus quam.
+                What's happening at IEEE
               </p>
             </div>
           </div>

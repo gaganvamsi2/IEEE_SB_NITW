@@ -47,35 +47,33 @@ class Features extends React.Component {
             <div className="col-lg-5">
               <div className="features-box">
                 <h3>
-                  some writeup about IEEE
+                IEEE fosters technological innovation and excellence for the benefit of humanity.
                 </h3>
                 <p className="text-muted web-desc">
-                  IEEE aims
+                  IEEE will be essential to the global technical community and to technical professionals everywhere, and be universally recognized for the contributions of technology and of technical professionals in improving global conditions.
                 </p>
                 <ul className="text-muted list-unstyled margin-t-30 features-item-list">
                   <li className="">
-                    aim1
+                    Drive global innovation through broad collaboration and the sharing of knowledge
                   </li>
                   <li className="">
-                    aim2.
+                  Enhance public understanding of engineering and technology and pursue standards for their practical application
                   </li>
                   <li className="">
-                    aim3
+                  Be a trusted source of educational services and resources to support life-long learning
                   </li>
                   <li className="">
-                    aim4
+                  Provide opportunities for career and professional development
                   </li>
-                  <li className="">aim6</li>
                   <li className="">
-                    aim5
+                    Inspire a worldwide audience by building communities that advance technical interests, inform public policy, and expand knowledge for the benefit of humanity
                   </li>
                 </ul>
-                <Link
-                  to="SignUp"
+                <a href={'https://www.ieee.org/'}
                   className="btn btn-custom margin-t-30 waves-effect waves-light"
                 >
                   Jump in <i className="mdi mdi-arrow-right"></i>
-                </Link>
+                </a>
               </div>
             </div>
             <div className="col-lg-7">

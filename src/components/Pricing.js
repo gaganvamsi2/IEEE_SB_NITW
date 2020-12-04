@@ -12,7 +12,7 @@ class Pricing extends React.Component {
               <h1 className="section-title text-center">Events</h1>
               <div className="section-title-border margin-t-20"></div>
               <p className="section-subtitle font-secondary text-muted text-center padding-t-30">
-                Some blah blah writeup for events.
+                writeup needed for events.
               </p>
             </div>
           </div>

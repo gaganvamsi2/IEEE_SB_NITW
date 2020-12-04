@@ -15,14 +15,13 @@ class Started extends React.Component {
               </h1>
               <div className="section-title-border margin-t-20 bg-white"></div>
               <p className="section-subtitle font-secondary text-white text-center padding-t-30">
-                Far far away, behind the word mountains, far from the countries
-                Vokalia and Consonantia, there live the blind texts.{' '}
+              As the world's largest technical professional organization, IEEE offers a number of ways to get involved with technical and local communities. These communities are active participants in research and authorship, conferences, and important conversations about today's most relevant technical topics locally and globally.{' '}
               </p>
               <a className="btn btn-bg-white waves-effect margin-t-20 mb-4"
-                href="https://www.ieee.org/membership/join/index.html?WT.mc_id=hc_join"
+                href="https://www.ieee.org/communities/index.html"
 
               >
-                Get Started
+              Let's  Explore
               </a>
             </div>
           </div>

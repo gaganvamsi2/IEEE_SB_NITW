@@ -13,8 +13,7 @@ class Team extends React.Component {
 
               <div className="section-title-border margin-t-20"></div>
               <p className="section-subtitle text-muted text-center font-secondary padding-t-30">
-                Our team is flexible and adaptable from head to toes. We can
-                deliver and scale up on demand. Working in constant
+                Our team is flexible and adaptable from head to toes.  Working in constant
                 collaboration so that knowledge-transfer is built right in.
               </p>
               <div class="row">
