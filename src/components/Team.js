@@ -34,21 +34,21 @@ class Team extends React.Component {
                                   <div class="card">
                                       <div class="card-body text-center mt-4">
                                       <h4 class="card-title">Vishal Vinod </h4>
-                                    <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
+                                    <p class="card-text">Btech Final Year, Electrical and Electronics Engineering</p>
                                           <ul class="list-inline">
 
                                               <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.fiverr.com/share/qb8D02">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="http://www.linkedin.com/in/vishal-vinod-977b5217b">
                                                       <i class="fa fa-linkedin"></i>
                                                   </a>
                                               </li>
                                               <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.fiverr.com/share/qb8D02">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="http://instagram.com/vicchu_05">
                                                       <i class="fa fa-instagram"></i>
                                                   </a>
                                               </li>
                                               <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.fiverr.com/share/qb8D02">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="vvinod@student.nitw.ac.in">
                                                       <i class="fa fa-google"></i>
                                                   </a>
                                               </li>
@@ -76,7 +76,7 @@ class Team extends React.Component {
                                   <div class="card">
                                       <div class="card-body text-center mt-4">
                                       <h4 class="card-title">Ruben Easo Thomas  </h4>
-                                    <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
+                                    <p class="card-text">Btech Final Year, Electrical and Electronics Engineering</p>
                                           <ul class="list-inline">
 
                                               <li class="list-inline-item">
@@ -85,15 +85,11 @@ class Team extends React.Component {
                                                   </a>
                                               </li>
                                               <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.fiverr.com/share/qb8D02">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.instagram.com/ruben_o810">
                                                       <i class="fa fa-instagram"></i>
                                                   </a>
                                               </li>
-                                              <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.fiverr.com/share/qb8D02">
-                                                      <i class="fa fa-google"></i>
-                                                  </a>
-                                              </li>
+                                              
                                           </ul>
                                       </div>
                                   </div>
@@ -127,12 +123,12 @@ class Team extends React.Component {
                                                   </a>
                                               </li>
                                               <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.instagram.com/anshika_shrivastav/?hl=en">
                                                       <i class="fa fa-instagram"></i>
                                                   </a>
                                               </li>
                                               <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.fiverr.com/share/qb8D02">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="ashrivastav@student.nitw.ac.in">
                                                       <i class="fa fa-google"></i>
                                                   </a>
                                               </li>
@@ -160,7 +156,7 @@ class Team extends React.Component {
                                   <div class="card">
                                       <div class="card-body text-center mt-4">
                                       <h4 class="card-title">Abin Jose Abraham  </h4>
-                                      <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
+                                      <p class="card-text">B.Tech Final Year, Civil Engineering</p>
                                           <ul class="list-inline">
 
                                               <li class="list-inline-item">
@@ -173,11 +169,7 @@ class Team extends React.Component {
                                                       <i class="fa fa-instagram"></i>
                                                   </a>
                                               </li>
-                                              <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="">
-                                                      <i class="fa fa-google"></i>
-                                                  </a>
-                                              </li>
+                                              
                                           </ul>
                                       </div>
                                   </div>
@@ -203,7 +195,7 @@ class Team extends React.Component {
                                   <div class="card">
                                       <div class="card-body text-center mt-4">
                                       <h4 class="card-title">Venkata Sai Sreedivya Vadali  </h4>
-                                      <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
+                                      <p class="card-text"></p>
                                           <ul class="list-inline">
 
                                               <li class="list-inline-item">
@@ -216,11 +208,7 @@ class Team extends React.Component {
                                                       <i class="fa fa-instagram"></i>
                                                   </a>
                                               </li>
-                                              <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="">
-                                                      <i class="fa fa-google"></i>
-                                                  </a>
-                                              </li>
+                                              
                                           </ul>
                                       </div>
                                   </div>
@@ -245,7 +233,7 @@ class Team extends React.Component {
                                   <div class="card">
                                       <div class="card-body text-center mt-4">
                                       <h4 class="card-title">Saketh</h4>
-                                      <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
+                                      <p class="card-text">Final year EEE</p>
                                           <ul class="list-inline">
 
                                               <li class="list-inline-item">
@@ -254,12 +242,12 @@ class Team extends React.Component {
                                                   </a>
                                               </li>
                                               <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.instagram.com/sakethr17">
                                                       <i class="fa fa-instagram"></i>
                                                   </a>
                                               </li>
                                               <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="sreddy7@student.nitw.ac.in">
                                                       <i class="fa fa-google"></i>
                                                   </a>
                                               </li>
@@ -286,7 +274,7 @@ class Team extends React.Component {
                                   <div class="card">
                                       <div class="card-body text-center mt-4">
                                       <h4 class="card-title">Avinash </h4>
-                                    <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
+                                    <p class="card-text">You cant use up creativity,The more you use,the more you have</p>
                                           <ul class="list-inline">
 
                                               <li class="list-inline-item">
@@ -300,7 +288,7 @@ class Team extends React.Component {
                                                   </a>
                                               </li>
                                               <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="ap861873@student.nitw.ac.in">
                                                       <i class="fa fa-google"></i>
                                                   </a>
                                               </li>
@@ -327,7 +315,7 @@ class Team extends React.Component {
                                   <div class="card">
                                       <div class="card-body text-center mt-4">
                                       <h4 class="card-title">Rohan Narula  </h4>
-                                      <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
+                                      <p class="card-text">3rd year EEE</p>
                                           <ul class="list-inline">
 
                                               <li class="list-inline-item">
@@ -341,7 +329,7 @@ class Team extends React.Component {
                                                   </a>
                                               </li>
                                               <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="rn851880@student.nitw.ac.in">
                                                       <i class="fa fa-google"></i>
                                                   </a>
                                               </li>
@@ -369,7 +357,7 @@ class Team extends React.Component {
                                   <div class="card">
                                       <div class="card-body text-center mt-4">
                                       <h4 class="card-title">Anisha S </h4>
-                                      <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
+                                      <p class="card-text">MTech IInd year ,Power Electronics and Drives</p>
                                           <ul class="list-inline">
 
                                               <li class="list-inline-item">
@@ -383,7 +371,7 @@ class Team extends React.Component {
                                                   </a>
                                               </li>
                                               <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="samraj_ee19204@student.nitw.ac.in">
                                                       <i class="fa fa-google"></i>
                                                   </a>
                                               </li>
@@ -412,7 +400,7 @@ class Team extends React.Component {
                                   <div class="card">
                                       <div class="card-body text-center mt-4">
                                       <h4 class="card-title">Jessica Ann George  </h4>
-                                        <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
+                                        <p class="card-text">3rd year EEE,Intrested in the hardware domain</p>
                                           <ul class="list-inline">
 
                                               <li class="list-inline-item">
@@ -421,12 +409,12 @@ class Team extends React.Component {
                                                   </a>
                                               </li>
                                               <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.instagram.com/jessica_ageorge">
                                                       <i class="fa fa-instagram"></i>
                                                   </a>
                                               </li>
                                               <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="jg861875@student.nitw.ac.in">
                                                       <i class="fa fa-google"></i>
                                                   </a>
                                               </li>
@@ -453,7 +441,7 @@ class Team extends React.Component {
                                   <div class="card">
                                       <div class="card-body text-center mt-4">
                                       <h4 class="card-title">Rahul Menon  </h4>
-                                      <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
+                                      <p class="card-text">3rd year ECE</p>
                                           <ul class="list-inline">
 
                                               <li class="list-inline-item">
@@ -467,7 +455,7 @@ class Team extends React.Component {
                                                   </a>
                                               </li>
                                               <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="rn851880@student.nitw.ac.in">
                                                       <i class="fa fa-google"></i>
                                                   </a>
                                               </li>
@@ -494,7 +482,7 @@ class Team extends React.Component {
                                   <div class="card">
                                       <div class="card-body text-center mt-4">
                                       <h4 class="card-title">Shahana Nandy </h4>
-                                      <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
+                                      <p class="card-text">3rd year EEE</p>
                                           <ul class="list-inline">
 
                                               <li class="list-inline-item">
@@ -508,7 +496,7 @@ class Team extends React.Component {
                                                   </a>
                                               </li>
                                               <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="sn851859@student.nitw.ac.in">
                                                       <i class="fa fa-google"></i>
                                                   </a>
                                               </li>
@@ -535,7 +523,7 @@ class Team extends React.Component {
                                   <div class="card">
                                       <div class="card-body text-center mt-4">
                                       <h4 class="card-title">Shabaaz Rafilal  </h4>
-                                      <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
+                                      <p class="card-text"></p>
                                           <ul class="list-inline">
 
                                               <li class="list-inline-item">
@@ -548,11 +536,7 @@ class Team extends React.Component {
                                                       <i class="fa fa-instagram"></i>
                                                   </a>
                                               </li>
-                                              <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="">
-                                                      <i class="fa fa-google"></i>
-                                                  </a>
-                                              </li>
+                                              
                                           </ul>
                                       </div>
                                   </div>
@@ -577,7 +561,7 @@ class Team extends React.Component {
                                   <div class="card">
                                       <div class="card-body text-center mt-4">
                                       <h4 class="card-title">Rithik Kumar </h4>
-                                      <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
+                                      <p class="card-text">Final Year EEE</p>
                                           <ul class="list-inline">
 
                                               <li class="list-inline-item">
@@ -591,7 +575,7 @@ class Team extends React.Component {
                                                   </a>
                                               </li>
                                               <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="asrithik@student.nitw.ac.in">
                                                       <i class="fa fa-google"></i>
                                                   </a>
                                               </li>
@@ -620,7 +604,7 @@ class Team extends React.Component {
                                   <div class="card">
                                       <div class="card-body text-center mt-4">
                                       <h4 class="card-title">Ankith Suresh  </h4>
-                                      <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
+                                      <p class="card-text">3rd Year ECE</p>
                                           <ul class="list-inline">
 
                                               <li class="list-inline-item">
@@ -634,7 +618,7 @@ class Team extends React.Component {
                                                   </a>
                                               </li>
                                               <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="as841878@student.nitw.ac.in">
                                                       <i class="fa fa-google"></i>
                                                   </a>
                                               </li>
@@ -663,7 +647,7 @@ class Team extends React.Component {
                                   <div class="card">
                                       <div class="card-body text-center mt-4">
                                           <h4 class="card-title">Sourab Saju Paul </h4>
-                                          <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
+                                          <p class="card-text">Final Year,EEE</p>
                                           <ul class="list-inline">
 
                                               <li class="list-inline-item">
@@ -677,7 +661,7 @@ class Team extends React.Component {
                                                   </a>
                                               </li>
                                               <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="sourabsaju@student.nitw.ac.in">
                                                       <i class="fa fa-google"></i>
                                                   </a>
                                               </li>
