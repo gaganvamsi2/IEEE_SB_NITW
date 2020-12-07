@@ -114,7 +114,7 @@ class Team extends React.Component {
                                   <div class="card">
                                       <div class="card-body text-center mt-4">
                                       <h4 class="card-title">Anshika Shrivastav </h4>
-                                      <p class="card-text"> Final Year ECE</p>
+                                      <p class="card-text"> Final Year Electronics and Communication Engineering</p>
                                           <ul class="list-inline">
 
                                               <li class="list-inline-item">
@@ -195,7 +195,7 @@ class Team extends React.Component {
                                   <div class="card">
                                       <div class="card-body text-center mt-4">
                                       <h4 class="card-title">Venkata Sai Sreedivya Vadali  </h4>
-                                      <p class="card-text"></p>
+                                      <p class="card-text">Venkata Sai Sreedivya Vadali</p>
                                           <ul class="list-inline">
 
                                               <li class="list-inline-item">
@@ -233,7 +233,7 @@ class Team extends React.Component {
                                   <div class="card">
                                       <div class="card-body text-center mt-4">
                                       <h4 class="card-title">Saketh</h4>
-                                      <p class="card-text">Final year EEE</p>
+                                      <p class="card-text">Final year, Electrical and Electronics Engineering</p>
                                           <ul class="list-inline">
 
                                               <li class="list-inline-item">
@@ -315,7 +315,7 @@ class Team extends React.Component {
                                   <div class="card">
                                       <div class="card-body text-center mt-4">
                                       <h4 class="card-title">Rohan Narula  </h4>
-                                      <p class="card-text">3rd year EEE</p>
+                                      <p class="card-text">3rd year, Electrical and Electronics Engineering</p>
                                           <ul class="list-inline">
 
                                               <li class="list-inline-item">
@@ -400,7 +400,7 @@ class Team extends React.Component {
                                   <div class="card">
                                       <div class="card-body text-center mt-4">
                                       <h4 class="card-title">Jessica Ann George  </h4>
-                                        <p class="card-text">3rd year EEE,Intrested in the hardware domain</p>
+                                        <p class="card-text">3rd year Electrical and Electronics Engineering,Intrested in the hardware domain</p>
                                           <ul class="list-inline">
 
                                               <li class="list-inline-item">
@@ -441,7 +441,7 @@ class Team extends React.Component {
                                   <div class="card">
                                       <div class="card-body text-center mt-4">
                                       <h4 class="card-title">Rahul Menon  </h4>
-                                      <p class="card-text">3rd year ECE</p>
+                                      <p class="card-text">3rd year, Electronics and Communication Engineering</p>
                                           <ul class="list-inline">
 
                                               <li class="list-inline-item">
@@ -482,7 +482,7 @@ class Team extends React.Component {
                                   <div class="card">
                                       <div class="card-body text-center mt-4">
                                       <h4 class="card-title">Shahana Nandy </h4>
-                                      <p class="card-text">3rd year EEE</p>
+                                      <p class="card-text">3rd year, Electrical and Electronics Engineering</p>
                                           <ul class="list-inline">
 
                                               <li class="list-inline-item">
@@ -523,7 +523,7 @@ class Team extends React.Component {
                                   <div class="card">
                                       <div class="card-body text-center mt-4">
                                       <h4 class="card-title">Shabaaz Rafilal  </h4>
-                                      <p class="card-text"></p>
+                                      <p class="card-text">Membership Development Officer</p>
                                           <ul class="list-inline">
 
                                               <li class="list-inline-item">
@@ -561,7 +561,7 @@ class Team extends React.Component {
                                   <div class="card">
                                       <div class="card-body text-center mt-4">
                                       <h4 class="card-title">Rithik Kumar </h4>
-                                      <p class="card-text">Final Year EEE</p>
+                                      <p class="card-text">Final Year,Electrical and Electronics Engineering</p>
                                           <ul class="list-inline">
 
                                               <li class="list-inline-item">
@@ -604,7 +604,7 @@ class Team extends React.Component {
                                   <div class="card">
                                       <div class="card-body text-center mt-4">
                                       <h4 class="card-title">Ankith Suresh  </h4>
-                                      <p class="card-text">3rd Year ECE</p>
+                                      <p class="card-text">3rd Year, Electronics and Communication Engineering</p>
                                           <ul class="list-inline">
 
                                               <li class="list-inline-item">
@@ -647,7 +647,7 @@ class Team extends React.Component {
                                   <div class="card">
                                       <div class="card-body text-center mt-4">
                                           <h4 class="card-title">Sourab Saju Paul </h4>
-                                          <p class="card-text">Final Year,EEE</p>
+                                          <p class="card-text">Final Year,Electrical and Electronics Engineering</p>
                                           <ul class="list-inline">
 
                                               <li class="list-inline-item">
