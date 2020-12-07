@@ -195,7 +195,7 @@ class Team extends React.Component {
                                   <div class="card">
                                       <div class="card-body text-center mt-4">
                                       <h4 class="card-title">Venkata Sai Sreedivya Vadali  </h4>
-                                      <p class="card-text">Venkata Sai Sreedivya Vadali</p>
+                                      <p class="card-text">Design Head</p>
                                           <ul class="list-inline">
 
                                               <li class="list-inline-item">
