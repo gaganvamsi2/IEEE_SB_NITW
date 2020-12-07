@@ -187,7 +187,7 @@ class Team extends React.Component {
                                       <div class="card-body text-center">
                                           <p><img class=" img-fluid" src="images/team/divya.jpeg" alt="card image"/></p>
                                           <h4 class="card-title">Venkata Sai Sreedivya Vadali  </h4>
-                                          <h3 &nbsp style={{fontSize:40}}class="card-text">Design Head   </h3>
+                                          <h3 class="card-text">Design Head   </h3>
                                       </div>
                                   </div>
                               </div>
