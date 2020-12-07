@@ -114,7 +114,7 @@ class Team extends React.Component {
                                   <div class="card">
                                       <div class="card-body text-center mt-4">
                                       <h4 class="card-title">Anshika Shrivastav </h4>
-                                      <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
+                                      <p class="card-text"> Final Year ECE</p>
                                           <ul class="list-inline">
 
                                               <li class="list-inline-item">
