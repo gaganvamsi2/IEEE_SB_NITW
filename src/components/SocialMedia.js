@@ -11,28 +11,20 @@ class SocialMedia extends React.Component {
             <div className="col-lg-6">
               <ul className="list-inline social margin-t-20">
                 <li className="list-inline-item">
-                  {' '}
-                  <Link to="JavaScript:Void(0);" className="social-icon">
+                  <a className="social-icon" href="https://www.facebook.com/IEEESBNITW/">
                     <i className="mdi mdi-facebook"></i>
-                  </Link>
+                </a>
                 </li>
+
                 <li className="list-inline-item">
-                  {' '}
-                  <Link to="JavaScript:Void(0);" className="social-icon">
-                    <i className="mdi mdi-twitter"></i>
-                  </Link>
-                </li>
-                <li className="list-inline-item">
-                  {' '}
-                  <Link to="JavaScript:Void(0);" className="social-icon">
+                  <a className="social-icon" href="https://in.linkedin.com/company/ieee-student-branch-nitw">
                     <i className="mdi mdi-linkedin"></i>
-                  </Link>
+                  </a>
                 </li>
                 <li className="list-inline-item">
-                  {' '}
-                  <Link to="JavaScript:Void(0);" className="social-icon">
+                  <a className="social-icon" href="mailto:nitw.ieee@gmail.com">
                     <i className="mdi mdi-google-plus"></i>
-                  </Link>
+                  </a>
                 </li>
                 <li className="list-inline-item">
                   {' '}
