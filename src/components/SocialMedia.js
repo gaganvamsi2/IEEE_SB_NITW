@@ -31,7 +31,7 @@ class SocialMedia extends React.Component {
             </div>
             <div className="col-lg-3 margin-t-30">
               <p className="margin-b-0 contact-title">
-                <i className="pe-7s-call"></i> &nbsp;+91 91 2192 531 0
+                <i className="pe-7s-call"><a href="tel:+91 9121925310"></a></i>
               </p>
             </div>
             <div className="col-lg-3 margin-t-30 text-right">
