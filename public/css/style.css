@@ -23,10 +23,18 @@
 .home-icon{
   top: 267px;
 left: 615px;
-width: 691px;
-height: 188px;
+width: 300px;
+height: 100px;
 background: transparent url('img/Group 2.png') 0% 0% no-repeat padding-box;
 opacity: 1;
+}
+
+@media only screen and (min-width: 400px) {
+.home-icon {
+  width: 691px;
+  height: 188px;
+
+  }
 }
 
 
@@ -694,7 +702,7 @@ iframe {
 
 .home-half {
   padding-bottom: 150px;
-  padding-top: 160px;
+  padding-top: 250px;
 }
 
 .bg-pattern-effect {
