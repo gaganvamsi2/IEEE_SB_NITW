@@ -54,7 +54,7 @@ class Footer extends React.Component {
                     <a href="#blog">IEEE news room</a>
                   </li>
                   <li>
-                    <a href="mailto:123gmail.com">contact</a>
+                    <a href="mailto:nitw.ieee@gmail.com">contact</a>
                   </li>
                   <li>
                   <a href="https://www.ieee.org/communities/societies/index.html">Disscusion</a>
@@ -70,7 +70,7 @@ class Footer extends React.Component {
 people see you value both feedback and ideas.
                 </p>
               </div>
-              <h4 href="mailto:123gmail.com">Mail us</h4>
+              <a style={{color: "white"}}  href="mailto:nitw.ieee@gmail.com">Mail us</a>
             </div>
           </div>
         </div>
