@@ -26,17 +26,17 @@ class SocialMedia extends React.Component {
                     <i className="mdi mdi-google-plus"></i>
                   </a>
                 </li>
-                
+
               </ul>
             </div>
             <div className="col-lg-3 margin-t-30">
               <p className="margin-b-0 contact-title">
-                <a href="tel:+91 9121925310">9121925310</a>
+              <i className="pe-7s-call"></i> &nbsp;<a style={{color: "black"}} href="tel:+91 9121925310">9121925310</a>
               </p>
             </div>
             <div className="col-lg-3 margin-t-30 text-right">
               <p className="contact-title">
-                <i className="pe-7s-mail-open"></i>&nbsp; nitw.ieee@gmail.com
+                <i className="pe-7s-mail-open"></i>&nbsp;<a style={{color: "black"}} href="mailto:nitw.ieee@gmail.com">nitw.ieee@gmail.com</a>
               </p>
             </div>
           </div>
