@@ -89,7 +89,7 @@ class Team extends React.Component {
                                                       <i class="fa fa-instagram"></i>
                                                   </a>
                                               </li>
-                                              
+
                                           </ul>
                                       </div>
                                   </div>
@@ -156,7 +156,7 @@ class Team extends React.Component {
                                   <div class="card">
                                       <div class="card-body text-center mt-4">
                                       <h4 class="card-title">Abin Jose Abraham  </h4>
-                                      <p class="card-text">B.Tech Final Year, Civil Engineering</p>
+                                      <p  style={{fontSize:20}} class="card-text">B.Tech Final Year, Civil Engineering</p>
                                           <ul class="list-inline">
 
                                               <li class="list-inline-item">
@@ -169,7 +169,7 @@ class Team extends React.Component {
                                                       <i class="fa fa-instagram"></i>
                                                   </a>
                                               </li>
-                                              
+
                                           </ul>
                                       </div>
                                   </div>
@@ -195,7 +195,7 @@ class Team extends React.Component {
                                   <div class="card">
                                       <div class="card-body text-center mt-4">
                                       <h4 class="card-title">Venkata Sai Sreedivya Vadali  </h4>
-                                      <p class="card-text">Venkata Sai Sreedivya Vadali</p>
+                                      <p style={{fontSize:35}} class="card-text">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Design Head &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
                                           <ul class="list-inline">
 
                                               <li class="list-inline-item">
@@ -208,7 +208,7 @@ class Team extends React.Component {
                                                       <i class="fa fa-instagram"></i>
                                                   </a>
                                               </li>
-                                              
+
                                           </ul>
                                       </div>
                                   </div>
@@ -357,7 +357,7 @@ class Team extends React.Component {
                                   <div class="card">
                                       <div class="card-body text-center mt-4">
                                       <h4 class="card-title">Anisha S </h4>
-                                      <p class="card-text">MTech IInd year ,Power Electronics and Drives</p>
+                                      <p  style={{fontSize:20}} class="card-text">MTech IInd year ,Power Electronics and Drives</p>
                                           <ul class="list-inline">
 
                                               <li class="list-inline-item">
@@ -523,7 +523,7 @@ class Team extends React.Component {
                                   <div class="card">
                                       <div class="card-body text-center mt-4">
                                       <h4 class="card-title">Shabaaz Rafilal  </h4>
-                                      <p class="card-text">Membership Development Officer</p>
+                                      <p  style={{fontSize:25}}class="card-text">Membership Development  Officer</p>
                                           <ul class="list-inline">
 
                                               <li class="list-inline-item">
@@ -536,7 +536,7 @@ class Team extends React.Component {
                                                       <i class="fa fa-instagram"></i>
                                                   </a>
                                               </li>
-                                              
+
                                           </ul>
                                       </div>
                                   </div>
