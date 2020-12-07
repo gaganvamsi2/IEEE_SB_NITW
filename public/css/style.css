@@ -25,9 +25,21 @@
 left: 615px;
 width: 691px;
 height: 188px;
-background: transparent url('img/Group 2.png') 0% 0% no-repeat padding-box;
+background: transparent url('/images/home/Group 2.png') 0% 0% no-repeat padding-box;
 opacity: 1;
+-webkit-transition: background-image 0.2s ease-in-out;
+transition: background-image 0.2s ease-in-out;
 }
+
+.home-icon a:hover {
+    background: transparent;
+    background: url('/images/home/Group 2.png') repeat;
+    /* TRANSITION */
+    -webkit-transition: background 1s;
+    -moz-transition: background 1s;
+    -o-transition: background 1s;
+    transition: background 1s;
+}​
 
 
 
