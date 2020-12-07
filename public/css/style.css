@@ -340,7 +340,7 @@ img	: url(../team/index.html);
   /* background: linear-gradient(to right, #14074d, #15033f); */
   opacity: 0.9;
   position: absolute;
-  height: 100%;
+  height: 1 0vh;
   width: 100%;
   right: 0;
   bottom: 0;
@@ -694,7 +694,7 @@ iframe {
 
 .home-half {
   padding-bottom: 150px;
-  padding-top: 520px;
+  padding-top: 220px;
 }
 
 .bg-pattern-effect {
