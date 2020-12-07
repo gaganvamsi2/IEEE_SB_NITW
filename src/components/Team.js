@@ -34,21 +34,21 @@ class Team extends React.Component {
                                   <div class="card">
                                       <div class="card-body text-center mt-4">
                                       <h4 class="card-title">Vishal Vinod </h4>
-                                    <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
+                                    <p class="card-text">Btech Final Year, Electrical and Electronics Engineering</p>
                                           <ul class="list-inline">
 
                                               <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.fiverr.com/share/qb8D02">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="http://www.linkedin.com/in/vishal-vinod-977b5217b">
                                                       <i class="fa fa-linkedin"></i>
                                                   </a>
                                               </li>
                                               <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.fiverr.com/share/qb8D02">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="http://instagram.com/vicchu_05">
                                                       <i class="fa fa-instagram"></i>
                                                   </a>
                                               </li>
                                               <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.fiverr.com/share/qb8D02">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="vvinod@student.nitw.ac.in">
                                                       <i class="fa fa-google"></i>
                                                   </a>
                                               </li>
