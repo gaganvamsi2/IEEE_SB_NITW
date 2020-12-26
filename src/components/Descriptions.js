@@ -13,17 +13,14 @@ class Descriptions extends React.Component {
           <div className="row">
             <div className="col-lg-12 text-center">
               <h2 className="text-white">
-                Explore IEEE &  writeup needed
+                Explore IEEE
               </h2>
-              <p className="padding-t-15 home-desc">
-                 writeup needed
+              <p className="padding-t-15 home-desc text-grey">
+                <br/> Whether you’re looking to build a professional profile to bolster your resumé, or acquaint yourself with the people who can help you do so, you’ve come to the right place. This space is your one-stop shop to help you accomplish all of that, and more. Keep reading to find out.
+                 <br/>
+                 <br/><br/><br/>
               </p>
-              <Link
-                to="SignUp"
-                className="btn btn-custom margin-t-30 waves-effect waves-light mb-5"
-              >
-                View Projects
-              </Link>
+
             </div>
           </div>
         </div>

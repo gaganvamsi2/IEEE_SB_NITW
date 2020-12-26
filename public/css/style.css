@@ -431,6 +431,30 @@ iframe {
   ======================*/
 
 /*--Text color--- */
+.flikker{
+  opacity:1;
+  animation flikr 1s linear infinite;
+}
+@keyframes flikr{
+  10%,30%,60%,75%{opacity:1;}
+  20%,40%,72%{opacity:0;}
+}
+.fade {
+  opacity:1;
+  animation: 1s ease-out fadeIn infinite;
+}
+
+
+@keyframes fadeIn {
+   20%,40%,72%,100%{
+    opacity: 1;
+    visibility: hidden;
+  }
+  30%,60%,75% {
+    opacity: 0;
+    visibility: visible;
+  }
+}
 
 .text-muted {
   color: #a8aeb4 !important;
@@ -447,6 +471,10 @@ iframe {
 .text-dark {
   color: #212121 !important;
 }
+.text-grey {
+  color: #BCC6CC !important;
+}
+
 
 /*====Buttons=======*/
 
