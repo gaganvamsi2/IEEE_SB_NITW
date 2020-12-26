@@ -48,7 +48,7 @@ class Team extends React.Component {
                                                   </a>
                                               </li>
                                               <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="vvinod@student.nitw.ac.in">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="mailto:vvinod@student.nitw.ac.in">
                                                       <i class="fa fa-google"></i>
                                                   </a>
                                               </li>
@@ -128,7 +128,7 @@ class Team extends React.Component {
                                                   </a>
                                               </li>
                                               <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="ashrivastav@student.nitw.ac.in">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="mailto:ashrivastav@student.nitw.ac.in">
                                                       <i class="fa fa-google"></i>
                                                   </a>
                                               </li>
@@ -247,7 +247,7 @@ class Team extends React.Component {
                                                   </a>
                                               </li>
                                               <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="sreddy7@student.nitw.ac.in">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="mailto:sreddy7@student.nitw.ac.in">
                                                       <i class="fa fa-google"></i>
                                                   </a>
                                               </li>
@@ -288,7 +288,7 @@ class Team extends React.Component {
                                                   </a>
                                               </li>
                                               <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="ap861873@student.nitw.ac.in">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="mailto:ap861873@student.nitw.ac.in">
                                                       <i class="fa fa-google"></i>
                                                   </a>
                                               </li>
@@ -329,7 +329,7 @@ class Team extends React.Component {
                                                   </a>
                                               </li>
                                               <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="rn851880@student.nitw.ac.in">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="mailto:rn851880@student.nitw.ac.in">
                                                       <i class="fa fa-google"></i>
                                                   </a>
                                               </li>
@@ -371,7 +371,7 @@ class Team extends React.Component {
                                                   </a>
                                               </li>
                                               <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="samraj_ee19204@student.nitw.ac.in">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="mailto:samraj_ee19204@student.nitw.ac.in">
                                                       <i class="fa fa-google"></i>
                                                   </a>
                                               </li>
@@ -414,7 +414,7 @@ class Team extends React.Component {
                                                   </a>
                                               </li>
                                               <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="jg861875@student.nitw.ac.in">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="mailto:jg861875@student.nitw.ac.in">
                                                       <i class="fa fa-google"></i>
                                                   </a>
                                               </li>
@@ -455,7 +455,7 @@ class Team extends React.Component {
                                                   </a>
                                               </li>
                                               <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="rn851880@student.nitw.ac.in">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="mailto:rn851880@student.nitw.ac.in">
                                                       <i class="fa fa-google"></i>
                                                   </a>
                                               </li>
@@ -496,7 +496,7 @@ class Team extends React.Component {
                                                   </a>
                                               </li>
                                               <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="sn851859@student.nitw.ac.in">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="mailto:sn851859@student.nitw.ac.in">
                                                       <i class="fa fa-google"></i>
                                                   </a>
                                               </li>
@@ -575,7 +575,7 @@ class Team extends React.Component {
                                                   </a>
                                               </li>
                                               <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="asrithik@student.nitw.ac.in">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="mailto:asrithik@student.nitw.ac.in">
                                                       <i class="fa fa-google"></i>
                                                   </a>
                                               </li>
@@ -618,7 +618,7 @@ class Team extends React.Component {
                                                   </a>
                                               </li>
                                               <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="as841878@student.nitw.ac.in">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="mailto:as841878@student.nitw.ac.in">
                                                       <i class="fa fa-google"></i>
                                                   </a>
                                               </li>
@@ -661,7 +661,7 @@ class Team extends React.Component {
                                                   </a>
                                               </li>
                                               <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="sourabsaju@student.nitw.ac.in">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="mailto:sourabsaju@student.nitw.ac.in">
                                                       <i class="fa fa-google"></i>
                                                   </a>
                                               </li>
