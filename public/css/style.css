@@ -1,6 +1,65 @@
 /* ==========
    1.BASIC
    ========== */
+   .flikker{
+     opacity:1;
+     animation flikr 1s linear infinite;
+   }
+   @keyframes flikr{
+     10%,30%,60%,75%{opacity:1;}
+     20%,40%,72%{opacity:0;}
+   }
+   .fade {
+     opacity:1;
+     animation: 6s ease-out fadeIn forwards infinite;
+   }
+
+   .fade:hover{
+      animation: 1s ease-out fadeIn forwards infinite;
+   }
+   @keyframes fadeIn {
+      4%,6%,8%,10%,100%{
+       opacity: 1;
+       visibility: visible;
+     }
+     5%,7%,9%,11% {
+       opacity: 0;
+       visibility: hidden;
+     }
+   }
+
+   .hideme
+   {
+       opacity:0;
+   }
+   .text-center{
+     text-align: center;
+   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -431,30 +490,7 @@ iframe {
   ======================*/
 
 /*--Text color--- */
-.flikker{
-  opacity:1;
-  animation flikr 1s linear infinite;
-}
-@keyframes flikr{
-  10%,30%,60%,75%{opacity:1;}
-  20%,40%,72%{opacity:0;}
-}
-.fade {
-  opacity:1;
-  animation: 1s ease-out fadeIn infinite;
-}
 
-
-@keyframes fadeIn {
-   20%,40%,72%,100%{
-    opacity: 1;
-    visibility: hidden;
-  }
-  30%,60%,75% {
-    opacity: 0;
-    visibility: visible;
-  }
-}
 
 .text-muted {
   color: #a8aeb4 !important;

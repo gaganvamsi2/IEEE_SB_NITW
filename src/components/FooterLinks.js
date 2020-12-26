@@ -5,10 +5,10 @@ class FooterLinks extends React.Component {
     return (
       <div className="footer-alt">
         <div className="container">
-          <div className="row">
-            <div className="col-lg-12">
+          <div className="row text-center">
+            <div className="col-lg-12 text-center">
               <div className="float-left pull-none ">
-                <p className="copy-rights text-muted">
+                <p className="copy-rights text-muted" align="center">
                   {new Date().getFullYear()} © IEEE-SB NITW
                 </p>
               </div>

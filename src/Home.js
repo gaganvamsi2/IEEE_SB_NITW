@@ -58,9 +58,11 @@ class Home extends React.Component {
             <div className="display-table-cell">
               <div className="container">
                 <div className="row">
-                  <div className="col-lg-8 offset-lg-2 text-white text-center  zoom">
-                  <img class="home-icon " src="/images/home/Group 2.png"/>
-                    <p className="padding-t-15 home-desc">
+                  <div className="col-lg-8 offset-lg-2 text-white text-center ">
+                 <img class="home-icon fade  " src="/images/home/Group 2.png"/>
+
+
+                    <p className="padding-t-15 home-desc ">
                       You have the next great idea to present to the world. Explore the world through IEEE
                       <br />
                       <br />
@@ -136,5 +138,6 @@ class Home extends React.Component {
     );
   }
 }
+
 
 export default Home;
