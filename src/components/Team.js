@@ -60,43 +60,99 @@ class Team extends React.Component {
                       </div>
                   </div>
 
-                  <div class="col-xs-12 col-sm-6 col-md-4">
-                      <div class="image-flip" >
-                          <div class="mainflip flip-0">
-                              <div class="frontside">
-                                  <div class="card">
-                                      <div class="card-body text-center">
-                                          <p><img class=" img-fluid" src="images/team/ruben.jpeg" alt="card image"/></p>
-                                          <h4 class="card-title">Ruben Easo Thomas  </h4>
-                                          <h3 class="card-text">Treasurer </h3>
-                                      </div>
-                                  </div>
-                              </div>
-                              <div class="backside">
-                                  <div class="card">
-                                      <div class="card-body text-center mt-4">
-                                      <h4 class="card-title">Ruben Easo Thomas  </h4>
-                                    <p class="card-text">Btech Final Year, Electrical and Electronics Engineering</p>
-                                          <ul class="list-inline">
 
-                                              <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.linkedin.com/in/ruben-thomas-4b9a1a191">
-                                                      <i class="fa fa-linkedin"></i>
-                                                  </a>
-                                              </li>
-                                              <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.instagram.com/ruben_o810">
-                                                      <i class="fa fa-instagram"></i>
-                                                  </a>
-                                              </li>
 
-                                          </ul>
-                                      </div>
-                                  </div>
-                              </div>
-                          </div>
-                      </div>
-                  </div>
+
+
+                                    <div class="col-xs-12 col-sm-6 col-md-4">
+                                        <div class="image-flip" >
+                                            <div class="mainflip flip-0">
+                                                <div class="frontside">
+                                                    <div class="card">
+                                                        <div class="card-body text-center">
+                                                            <p><img class=" img-fluid" src="   images/team/visal.jpeg  " alt="card image"/></p>
+                                                            <h4 class="card-title">Sourab Saju Paul </h4>
+                                                            <h3 class="card-text">Vice Chairman  </h3>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="backside">
+                                                    <div class="card">
+                                                        <div class="card-body text-center mt-4">
+                                                            <h4 class="card-title">Sourab Saju Paul </h4>
+                                                            <p class="card-text">Final Year,Electrical and Electronics Engineering</p>
+                                                            <ul class="list-inline">
+
+                                                                <li class="list-inline-item">
+                                                                    <a class="social-icon text-xs-center" target="_blank" href="http://linkedin.com/in/sourab-saju-b2349916ab">
+                                                                        <i class="fa fa-linkedin"></i>
+                                                                    </a>
+                                                                </li>
+                                                                <li class="list-inline-item">
+                                                                    <a class="social-icon text-xs-center" target="_blank" href="http://linkedin.com/in/sourab-saju-b2349916a">
+                                                                        <i class="fa fa-instagram"></i>
+                                                                    </a>
+                                                                </li>
+                                                                <li class="list-inline-item">
+                                                                    <a class="social-icon text-xs-center" target="_blank" href="mailto:sourabsaju@student.nitw.ac.in">
+                                                                        <i class="fa fa-google"></i>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+
+
+                                    <div class="col-xs-12 col-sm-6 col-md-4">
+                                        <div class="image-flip" >
+                                            <div class="mainflip flip-0">
+                                                <div class="frontside">
+                                                    <div class="card">
+                                                        <div class="card-body text-center">
+                                                            <p><img class=" img-fluid" src="images/team/saketh.jpeg" alt="card image"/></p>
+                                                            <h4 class="card-title">Saketh</h4>
+                                                            <h3 class="card-text">Technical Secretary   </h3>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="backside">
+                                                    <div class="card">
+                                                        <div class="card-body text-center mt-4">
+                                                        <h4 class="card-title">Saketh</h4>
+                                                        <p class="card-text">Final year, Electrical and Electronics Engineering</p>
+                                                            <ul class="list-inline">
+
+                                                                <li class="list-inline-item">
+                                                                    <a class="social-icon text-xs-center" target="_blank" href="http://linkedin.com/in/saketh-reddy-454935161">
+                                                                        <i class="fa fa-linkedin"></i>
+                                                                    </a>
+                                                                </li>
+                                                                <li class="list-inline-item">
+                                                                    <a class="social-icon text-xs-center" target="_blank" href="https://www.instagram.com/sakethr17">
+                                                                        <i class="fa fa-instagram"></i>
+                                                                    </a>
+                                                                </li>
+                                                                <li class="list-inline-item">
+                                                                    <a class="social-icon text-xs-center" target="_blank" href="mailto:sreddy7@student.nitw.ac.in">
+                                                                        <i class="fa fa-google"></i>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+
 
                   <div class="col-xs-12 col-sm-6 col-md-4">
                       <div class="image-flip" >
@@ -140,43 +196,7 @@ class Team extends React.Component {
                       </div>
                   </div>
 
-                  <div class="col-xs-12 col-sm-6 col-md-4">
-                      <div class="image-flip" >
-                          <div class="mainflip flip-0">
-                              <div class="frontside">
-                                  <div class="card">
-                                      <div class="card-body text-center">
-                                          <p><img class=" img-fluid" src="images/team/abin.jpeg" alt="card image"/></p>
-                                          <h4 class="card-title">Abin Jose Abraham  </h4>
-                                          <h3 class="card-text">Designer   </h3>
-                                      </div>
-                                  </div>
-                              </div>
-                              <div class="backside">
-                                  <div class="card">
-                                      <div class="card-body text-center mt-4">
-                                      <h4 class="card-title">Abin Jose Abraham  </h4>
-                                      <p  style={{fontSize:20}} class="card-text">B.Tech Final Year, Civil Engineering</p>
-                                          <ul class="list-inline">
 
-                                              <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.linkedin.com/in/abin-jose-abraham-b01519190">
-                                                      <i class="fa fa-linkedin"></i>
-                                                  </a>
-                                              </li>
-                                              <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.instagram.com/abinjoseabraham ">
-                                                      <i class="fa fa-instagram"></i>
-                                                  </a>
-                                              </li>
-
-                                          </ul>
-                                      </div>
-                                  </div>
-                              </div>
-                          </div>
-                      </div>
-                  </div>
 
 
                   <div class="col-xs-12 col-sm-6 col-md-4">
@@ -217,37 +237,78 @@ class Team extends React.Component {
                       </div>
                   </div>
 
+
+
+                                    <div class="col-xs-12 col-sm-6 col-md-4">
+                                        <div class="image-flip" >
+                                            <div class="mainflip flip-0">
+                                                <div class="frontside">
+                                                    <div class="card">
+                                                        <div class="card-body text-center">
+                                                            <p><img class=" img-fluid" src="images/team/ruben.jpeg" alt="card image"/></p>
+                                                            <h4 class="card-title">Ruben Easo Thomas  </h4>
+                                                            <h3 class="card-text">Treasurer </h3>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="backside">
+                                                    <div class="card">
+                                                        <div class="card-body text-center mt-4">
+                                                        <h4 class="card-title">Ruben Easo Thomas  </h4>
+                                                      <p class="card-text">Btech Final Year, Electrical and Electronics Engineering</p>
+                                                            <ul class="list-inline">
+
+                                                                <li class="list-inline-item">
+                                                                    <a class="social-icon text-xs-center" target="_blank" href="https://www.linkedin.com/in/ruben-thomas-4b9a1a191">
+                                                                        <i class="fa fa-linkedin"></i>
+                                                                    </a>
+                                                                </li>
+                                                                <li class="list-inline-item">
+                                                                    <a class="social-icon text-xs-center" target="_blank" href="https://www.instagram.com/ruben_o810">
+                                                                        <i class="fa fa-instagram"></i>
+                                                                    </a>
+                                                                </li>
+
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+
                   <div class="col-xs-12 col-sm-6 col-md-4">
                       <div class="image-flip" >
                           <div class="mainflip flip-0">
                               <div class="frontside">
                                   <div class="card">
                                       <div class="card-body text-center">
-                                          <p><img class=" img-fluid" src="images/team/saketh.jpeg" alt="card image"/></p>
-                                          <h4 class="card-title">Saketh</h4>
-                                          <h3 class="card-text">Technical Secretary   </h3>
+                                          <p><img class=" img-fluid" src="images/team/vihal.jpeg" alt="card image"/></p>
+                                          <h4 class="card-title">Shahana Nandy </h4>
+                                          <h3 class="card-text">WIE Vice Chair  </h3>
                                       </div>
                                   </div>
                               </div>
                               <div class="backside">
                                   <div class="card">
                                       <div class="card-body text-center mt-4">
-                                      <h4 class="card-title">Saketh</h4>
-                                      <p class="card-text">Final year, Electrical and Electronics Engineering</p>
+                                      <h4 class="card-title">Shahana Nandy </h4>
+                                      <p class="card-text">3rd year, Electrical and Electronics Engineering</p>
                                           <ul class="list-inline">
 
                                               <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="http://linkedin.com/in/saketh-reddy-454935161">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="http://linkedin.com/in/shahana-nandy">
                                                       <i class="fa fa-linkedin"></i>
                                                   </a>
                                               </li>
                                               <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.instagram.com/sakethr17">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.instagram.com/shahana_nandy">
                                                       <i class="fa fa-instagram"></i>
                                                   </a>
                                               </li>
                                               <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="mailto:sreddy7@student.nitw.ac.in">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="mailto:sn851859@student.nitw.ac.in">
                                                       <i class="fa fa-google"></i>
                                                   </a>
                                               </li>
@@ -258,6 +319,11 @@ class Team extends React.Component {
                           </div>
                       </div>
                   </div>
+
+
+
+
+
                   <div class="col-xs-12 col-sm-6 col-md-4">
                       <div class="image-flip" >
                           <div class="mainflip flip-0">
@@ -341,47 +407,9 @@ class Team extends React.Component {
                       </div>
                   </div>
 
-                  <div class="col-xs-12 col-sm-6 col-md-4">
-                      <div class="image-flip" >
-                          <div class="mainflip flip-0">
-                              <div class="frontside">
-                                  <div class="card">
-                                      <div class="card-body text-center">
-                                          <p><img class=" img-fluid" src="images/team/anisha.jpeg" alt="card image"/></p>
-                                          <h4 class="card-title">Anisha S </h4>
-                                          <h3 class="card-text">Executive Member </h3>
-                                      </div>
-                                  </div>
-                              </div>
-                              <div class="backside">
-                                  <div class="card">
-                                      <div class="card-body text-center mt-4">
-                                      <h4 class="card-title">Anisha S </h4>
-                                      <p  style={{fontSize:20}} class="card-text">MTech IInd year ,Power Electronics and Drives</p>
-                                          <ul class="list-inline">
 
-                                              <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.linkedin.com/in/anisha-s-97027a157">
-                                                      <i class="fa fa-linkedin"></i>
-                                                  </a>
-                                              </li>
-                                              <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.instagram.com/anisha2407/">
-                                                      <i class="fa fa-instagram"></i>
-                                                  </a>
-                                              </li>
-                                              <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="mailto:samraj_ee19204@student.nitw.ac.in">
-                                                      <i class="fa fa-google"></i>
-                                                  </a>
-                                              </li>
-                                          </ul>
-                                      </div>
-                                  </div>
-                              </div>
-                          </div>
-                      </div>
-                  </div>
+
+
 
 
                   <div class="col-xs-12 col-sm-6 col-md-4">
@@ -425,6 +453,93 @@ class Team extends React.Component {
                           </div>
                       </div>
                   </div>
+
+
+
+
+
+                  <div class="col-xs-12 col-sm-6 col-md-4">
+                      <div class="image-flip" >
+                          <div class="mainflip flip-0">
+                              <div class="frontside">
+                                  <div class="card">
+                                      <div class="card-body text-center">
+                                          <p><img class=" img-fluid" src="images/team/visal.jpeg" alt="card image"/></p>
+                                          <h4 class="card-title">Shabaaz Rafilal  </h4>
+                                          <h3 class="card-text">Membership Development Officer </h3>
+                                      </div>
+                                  </div>
+                              </div>
+                              <div class="backside">
+                                  <div class="card">
+                                      <div class="card-body text-center mt-4">
+                                      <h4 class="card-title">Shabaaz Rafilal  </h4>
+                                      <p  style={{fontSize:25}}class="card-text">Membership Development  Officer</p>
+                                          <ul class="list-inline">
+
+                                              <li class="list-inline-item">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.linkedin.com/in/shabaaz-rafilal-b453a61b0">
+                                                      <i class="fa fa-linkedin"></i>
+                                                  </a>
+                                              </li>
+                                              <li class="list-inline-item">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.instagram.com/shabaaz_rafilal ">
+                                                      <i class="fa fa-instagram"></i>
+                                                  </a>
+                                              </li>
+
+                                          </ul>
+                                      </div>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+
+
+
+
+                  <div class="col-xs-12 col-sm-6 col-md-4">
+                      <div class="image-flip" >
+                          <div class="mainflip flip-0">
+                              <div class="frontside">
+                                  <div class="card">
+                                      <div class="card-body text-center">
+                                          <p><img class=" img-fluid" src="images/team/abin.jpeg" alt="card image"/></p>
+                                          <h4 class="card-title">Abin Jose Abraham  </h4>
+                                          <h3 class="card-text">Designer   </h3>
+                                      </div>
+                                  </div>
+                              </div>
+                              <div class="backside">
+                                  <div class="card">
+                                      <div class="card-body text-center mt-4">
+                                      <h4 class="card-title">Abin Jose Abraham  </h4>
+                                      <p  style={{fontSize:20}} class="card-text">B.Tech Final Year, Civil Engineering</p>
+                                          <ul class="list-inline">
+
+                                              <li class="list-inline-item">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.linkedin.com/in/abin-jose-abraham-b01519190">
+                                                      <i class="fa fa-linkedin"></i>
+                                                  </a>
+                                              </li>
+                                              <li class="list-inline-item">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.instagram.com/abinjoseabraham ">
+                                                      <i class="fa fa-instagram"></i>
+                                                  </a>
+                                              </li>
+
+                                          </ul>
+                                      </div>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+
+
+
+
                   <div class="col-xs-12 col-sm-6 col-md-4">
                       <div class="image-flip" >
                           <div class="mainflip flip-0">
@@ -466,84 +581,8 @@ class Team extends React.Component {
                           </div>
                       </div>
                   </div>
-                  <div class="col-xs-12 col-sm-6 col-md-4">
-                      <div class="image-flip" >
-                          <div class="mainflip flip-0">
-                              <div class="frontside">
-                                  <div class="card">
-                                      <div class="card-body text-center">
-                                          <p><img class=" img-fluid" src="images/team/vihal.jpeg" alt="card image"/></p>
-                                          <h4 class="card-title">Shahana Nandy </h4>
-                                          <h3 class="card-text">WIE Vice Chair  </h3>
-                                      </div>
-                                  </div>
-                              </div>
-                              <div class="backside">
-                                  <div class="card">
-                                      <div class="card-body text-center mt-4">
-                                      <h4 class="card-title">Shahana Nandy </h4>
-                                      <p class="card-text">3rd year, Electrical and Electronics Engineering</p>
-                                          <ul class="list-inline">
 
-                                              <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="http://linkedin.com/in/shahana-nandy">
-                                                      <i class="fa fa-linkedin"></i>
-                                                  </a>
-                                              </li>
-                                              <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.instagram.com/shahana_nandy">
-                                                      <i class="fa fa-instagram"></i>
-                                                  </a>
-                                              </li>
-                                              <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="mailto:sn851859@student.nitw.ac.in">
-                                                      <i class="fa fa-google"></i>
-                                                  </a>
-                                              </li>
-                                          </ul>
-                                      </div>
-                                  </div>
-                              </div>
-                          </div>
-                      </div>
-                  </div>
-                  <div class="col-xs-12 col-sm-6 col-md-4">
-                      <div class="image-flip" >
-                          <div class="mainflip flip-0">
-                              <div class="frontside">
-                                  <div class="card">
-                                      <div class="card-body text-center">
-                                          <p><img class=" img-fluid" src="images/team/visal.jpeg" alt="card image"/></p>
-                                          <h4 class="card-title">Shabaaz Rafilal  </h4>
-                                          <h3 class="card-text">Membership Development Officer </h3>
-                                      </div>
-                                  </div>
-                              </div>
-                              <div class="backside">
-                                  <div class="card">
-                                      <div class="card-body text-center mt-4">
-                                      <h4 class="card-title">Shabaaz Rafilal  </h4>
-                                      <p  style={{fontSize:25}}class="card-text">Membership Development  Officer</p>
-                                          <ul class="list-inline">
 
-                                              <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.linkedin.com/in/shabaaz-rafilal-b453a61b0">
-                                                      <i class="fa fa-linkedin"></i>
-                                                  </a>
-                                              </li>
-                                              <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.instagram.com/shabaaz_rafilal ">
-                                                      <i class="fa fa-instagram"></i>
-                                                  </a>
-                                              </li>
-
-                                          </ul>
-                                      </div>
-                                  </div>
-                              </div>
-                          </div>
-                      </div>
-                  </div>
 
                   <div class="col-xs-12 col-sm-6 col-md-4">
                       <div class="image-flip" >
@@ -630,38 +669,37 @@ class Team extends React.Component {
                       </div>
                   </div>
 
-
                   <div class="col-xs-12 col-sm-6 col-md-4">
                       <div class="image-flip" >
                           <div class="mainflip flip-0">
                               <div class="frontside">
                                   <div class="card">
                                       <div class="card-body text-center">
-                                          <p><img class=" img-fluid" src="   images/team/visal.jpeg  " alt="card image"/></p>
-                                          <h4 class="card-title">Sourab Saju Paul </h4>
-                                          <h3 class="card-text">Vice Chairman  </h3>
+                                          <p><img class=" img-fluid" src="images/team/anisha.jpeg" alt="card image"/></p>
+                                          <h4 class="card-title">Anisha S </h4>
+                                          <h3 class="card-text">Executive Member </h3>
                                       </div>
                                   </div>
                               </div>
                               <div class="backside">
                                   <div class="card">
                                       <div class="card-body text-center mt-4">
-                                          <h4 class="card-title">Sourab Saju Paul </h4>
-                                          <p class="card-text">Final Year,Electrical and Electronics Engineering</p>
+                                      <h4 class="card-title">Anisha S </h4>
+                                      <p  style={{fontSize:20}} class="card-text">MTech IInd year ,Power Electronics and Drives</p>
                                           <ul class="list-inline">
 
                                               <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="http://linkedin.com/in/sourab-saju-b2349916ab">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.linkedin.com/in/anisha-s-97027a157">
                                                       <i class="fa fa-linkedin"></i>
                                                   </a>
                                               </li>
                                               <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="http://linkedin.com/in/sourab-saju-b2349916a">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.instagram.com/anisha2407/">
                                                       <i class="fa fa-instagram"></i>
                                                   </a>
                                               </li>
                                               <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="mailto:sourabsaju@student.nitw.ac.in">
+                                                  <a class="social-icon text-xs-center" target="_blank" href="mailto:samraj_ee19204@student.nitw.ac.in">
                                                       <i class="fa fa-google"></i>
                                                   </a>
                                               </li>
@@ -672,6 +710,7 @@ class Team extends React.Component {
                           </div>
                       </div>
                   </div>
+
 
 
 
