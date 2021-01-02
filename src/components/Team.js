@@ -70,7 +70,7 @@ class Team extends React.Component {
                                                 <div class="frontside">
                                                     <div class="card">
                                                         <div class="card-body text-center">
-                                                            <p><img class=" img-fluid" src="   images/team/visal.jpeg  " alt="card image"/></p>
+                                                            <p><img class=" img-fluid" src= "images/team/sourab.jpeg"  alt="card image"/></p>
                                                             <h4 class="card-title">Sourab Saju Paul </h4>
                                                             <h3 class="card-text">Vice Chairman  </h3>
                                                         </div>
@@ -464,7 +464,7 @@ class Team extends React.Component {
                               <div class="frontside">
                                   <div class="card">
                                       <div class="card-body text-center">
-                                          <p><img class=" img-fluid" src="images/team/visal.jpeg" alt="card image"/></p>
+                                          <p><img class=" img-fluid" src="images/team/shabaaz.jpeg" alt="card image"/></p>
                                           <h4 class="card-title">Shabaaz Rafilal  </h4>
                                           <h3 class="card-text">Membership Development Officer </h3>
                                       </div>
@@ -546,7 +546,7 @@ class Team extends React.Component {
                               <div class="frontside">
                                   <div class="card">
                                       <div class="card-body text-center">
-                                          <p><img class=" img-fluid" src="images/team/vishl.jpeg" alt="card image"/></p>
+                                          <p><img class=" img-fluid" src="images/team/rahul.jpeg" alt="card image"/></p>
                                           <h4 class="card-title">Rahul Menon  </h4>
                                           <h3 class="card-text">Executive Member </h3>
                                       </div>
@@ -590,7 +590,7 @@ class Team extends React.Component {
                               <div class="frontside">
                                   <div class="card">
                                       <div class="card-body text-center">
-                                          <p><img class=" img-fluid" src="images/team/visal.jpeg" alt="card image"/></p>
+                                          <p><img class=" img-fluid" src="images/team/rithik.jpeg" alt="card image"/></p>
                                           <h4 class="card-title">Rithik Kumar </h4>
                                           <h3 class="card-text">Executive Member  </h3>
                                       </div>
@@ -633,7 +633,7 @@ class Team extends React.Component {
                               <div class="frontside">
                                   <div class="card">
                                       <div class="card-body text-center">
-                                          <p><img class=" img-fluid" src="images/team/visal.jpeg" alt="card image"/></p>
+                                          <p><img class=" img-fluid" src="images/team/ankith.jpeg" alt="card image"/></p>
                                           <h4 class="card-title">Ankith Suresh  </h4>
                                           <h3 class="card-text">Executive Member   </h3>
                                       </div>
