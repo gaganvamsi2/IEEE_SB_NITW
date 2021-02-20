@@ -1,6 +1,56 @@
 import React from 'react';
 
 class Team extends React.Component {
+
+
+      State={
+        team:[
+                      {   cardimage:"images/team/vishal.jpeg",
+                          cardtitle:"Vishal Vinod",
+                          position:"Chairperson",
+                          cardtext:"Btech Final Year,Electrical and Electronics Engineering",
+                          linkedin:"http://www.linkedin.com/in/vishal-vinod-977b5217b",
+                          instagram:"http://instagram.com/vicchu_05",
+                          google:"mailto:vvinod@student.nitw.ac.in",
+                      },
+                      {   cardimage:"images/team/sourab.jpeg" ,
+                          cardtitle:"Sourab Saju Paul",
+                          position:"Vice Chairman",
+                          cardtext:"Final Year,Electrical and Electronics Engineering",
+                          linkedin:"http://linkedin.com/in/sourab-saju-b2349916ab",
+                          instagram:"javascript:void(0);",
+                          google:"mailto:sourabsaju@student.nitw.ac.in",
+                      },
+                      {   cardimage:"images/team/saketh.jpeg" ,
+                          cardtitle:"Saketh",
+                          position:"Technical Secretary",
+                          cardtext:"Final year, Electrical and Electronics Engineering",
+                          linkedin:"http://linkedin.com/in/saketh-reddy-454935161",
+                          instagram:"https://www.instagram.com/sakethr17",
+                          google:"mailto:sreddy7@student.nitw.ac.in",
+                      },
+                      {   cardimage:"images/team/anshika.jpg" ,
+                          cardtitle:"Anshika Shrivastav",
+                          position:"Woman in Engineering Chair (WIE)",
+                          cardtext:"Final Year Electronics and Communication Engineering",
+                          linkedin:"https://www.linkedin.com/in/anshika-shrivastav-bb28a01ab",
+                          instagram:"https://www.instagram.com/anshika_shrivastav/?hl=en",
+                          google:"mailto:ashrivastav@student.nitw.ac.in",
+                      },
+                      {   cardimage:"images/team/divya.jpeg" ,
+                          cardtitle:"Venkata Sai Sreedivya Vadali ",
+                          position:"Design Head",
+                          cardtext:"Final year, Electrical and Electronics Engineering",
+                          linkedin:"https://www.linkedin.com/mwlite/in/vvs-divya-869b591777",
+                          instagram:"https://www.instagram.com/vvs_divya/",
+                          google:"null",
+                      },
+                    ]
+              }
+
+
+
+
   render() {
     return (
 
@@ -18,224 +68,65 @@ class Team extends React.Component {
               </p>
               <div class="row">
 
-                  <div class="col-xs-12 col-sm-6 col-md-4">
-                      <div class="image-flip" >
-                          <div class="mainflip flip-0">
-                              <div class="frontside">
-                                  <div class="card">
-                                      <div class="card-body text-center">
-                                          <p><img class=" img-fluid" src="images/team/vishal.jpeg" alt="card image"/></p>
-                                          <h4 class="card-title">Vishal Vinod </h4>
-                                          <h3 class="card-text">Chairperson </h3>
-                                      </div>
-                                  </div>
-                              </div>
-                              <div class="backside">
-                                  <div class="card">
-                                      <div class="card-body text-center mt-4">
-                                      <h4 class="card-title">Vishal Vinod </h4>
-                                    <p class="card-text">Btech Final Year, Electrical and Electronics Engineering</p>
-                                          <ul class="list-inline">
-
-                                              <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="http://www.linkedin.com/in/vishal-vinod-977b5217b">
-                                                      <i class="fa fa-linkedin"></i>
-                                                  </a>
-                                              </li>
-                                              <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="http://instagram.com/vicchu_05">
-                                                      <i class="fa fa-instagram"></i>
-                                                  </a>
-                                              </li>
-                                              <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="mailto:vvinod@student.nitw.ac.in">
-                                                      <i class="fa fa-google"></i>
-                                                  </a>
-                                              </li>
-                                          </ul>
-                                      </div>
-                                  </div>
-                              </div>
-                          </div>
-                      </div>
-                  </div>
 
 
 
+                  {this.State.team.map((team) =>(
 
 
-                                    <div class="col-xs-12 col-sm-6 col-md-4">
-                                        <div class="image-flip" >
-                                            <div class="mainflip flip-0">
-                                                <div class="frontside">
-                                                    <div class="card">
-                                                        <div class="card-body text-center">
-                                                            <p><img class=" img-fluid" src= "images/team/sourab.jpeg"  alt="card image"/></p>
-                                                            <h4 class="card-title">Sourab Saju Paul </h4>
-                                                            <h3 class="card-text">Vice Chairman  </h3>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="backside">
-                                                    <div class="card">
-                                                        <div class="card-body text-center mt-4">
-                                                            <h4 class="card-title">Sourab Saju Paul </h4>
-                                                            <p class="card-text">Final Year,Electrical and Electronics Engineering</p>
-                                                            <ul class="list-inline">
-
-                                                                <li class="list-inline-item">
-                                                                    <a class="social-icon text-xs-center" target="_blank" href="http://linkedin.com/in/sourab-saju-b2349916ab">
-                                                                        <i class="fa fa-linkedin"></i>
-                                                                    </a>
-                                                                </li>
-                                                                <li class="list-inline-item">
-                                                                    <a class="social-icon text-xs-center" target="_blank" href="http://linkedin.com/in/sourab-saju-b2349916a">
-                                                                        <i class="fa fa-instagram"></i>
-                                                                    </a>
-                                                                </li>
-                                                                <li class="list-inline-item">
-                                                                    <a class="social-icon text-xs-center" target="_blank" href="mailto:sourabsaju@student.nitw.ac.in">
-                                                                        <i class="fa fa-google"></i>
-                                                                    </a>
-                                                                </li>
-                                                            </ul>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
+                    <div class="col-xs-12 col-sm-6 col-md-4">
+                        <div class="image-flip" >
+                            <div class="mainflip flip-0">
+                                <div class="frontside">
+                                    <div class="card">
+                                        <div class="card-body text-center">
+                                            <p><img class=" img-fluid" src={team.cardimage} alt="card image"/></p>
+                                            <h4 class="card-title">{team.cardtitle} </h4>
+                                            <h3 class="card-text">{team.position} </h3>
                                         </div>
                                     </div>
+                                </div>
+                                <div class="backside">
+                                    <div class="card">
+                                        <div class="card-body text-center mt-4">
+                                        <h4 class="card-title">{team.cardtitle} </h4>
+                                      <p class="card-text">{team.cardtext} </p>
+                                            <ul class="list-inline">
 
-
-
-
-                                    <div class="col-xs-12 col-sm-6 col-md-4">
-                                        <div class="image-flip" >
-                                            <div class="mainflip flip-0">
-                                                <div class="frontside">
-                                                    <div class="card">
-                                                        <div class="card-body text-center">
-                                                            <p><img class=" img-fluid" src="images/team/saketh.jpeg" alt="card image"/></p>
-                                                            <h4 class="card-title">Saketh</h4>
-                                                            <h3 class="card-text">Technical Secretary   </h3>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="backside">
-                                                    <div class="card">
-                                                        <div class="card-body text-center mt-4">
-                                                        <h4 class="card-title">Saketh</h4>
-                                                        <p class="card-text">Final year, Electrical and Electronics Engineering</p>
-                                                            <ul class="list-inline">
-
-                                                                <li class="list-inline-item">
-                                                                    <a class="social-icon text-xs-center" target="_blank" href="http://linkedin.com/in/saketh-reddy-454935161">
-                                                                        <i class="fa fa-linkedin"></i>
-                                                                    </a>
-                                                                </li>
-                                                                <li class="list-inline-item">
-                                                                    <a class="social-icon text-xs-center" target="_blank" href="https://www.instagram.com/sakethr17">
-                                                                        <i class="fa fa-instagram"></i>
-                                                                    </a>
-                                                                </li>
-                                                                <li class="list-inline-item">
-                                                                    <a class="social-icon text-xs-center" target="_blank" href="mailto:sreddy7@student.nitw.ac.in">
-                                                                        <i class="fa fa-google"></i>
-                                                                    </a>
-                                                                </li>
-                                                            </ul>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
+                                                <li class="list-inline-item">
+                                                    <a class="social-icon text-xs-center" target="_blank" href={team.linkedin}>
+                                                        <i class="fa fa-linkedin"></i>
+                                                    </a>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <a class="social-icon text-xs-center" target="_blank" href={team.instagram}>
+                                                        <i class="fa fa-instagram"></i>
+                                                    </a>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <a class="social-icon text-xs-center" target="_blank" href={team.google}>
+                                                        <i class="fa fa-google"></i>
+                                                    </a>
+                                                </li>
+                                            </ul>
                                         </div>
                                     </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
 
 
 
 
-                  <div class="col-xs-12 col-sm-6 col-md-4">
-                      <div class="image-flip" >
-                          <div class="mainflip flip-0">
-                              <div class="frontside">
-                                  <div class="card">
-                                      <div class="card-body text-center">
-                                          <p><img class=" img-fluid" src="images/team/anshika.jpg" alt="card image"/></p>
-                                          <h4 class="card-title">Anshika Shrivastav </h4>
-                                          <h3 class="card-text"> Woman in Engineering Chair (WIE) </h3>
-                                      </div>
-                                  </div>
-                              </div>
-                              <div class="backside">
-                                  <div class="card">
-                                      <div class="card-body text-center mt-4">
-                                      <h4 class="card-title">Anshika Shrivastav </h4>
-                                      <p class="card-text"> Final Year Electronics and Communication Engineering</p>
-                                          <ul class="list-inline">
-
-                                              <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.linkedin.com/in/anshika-shrivastav-bb28a01ab">
-                                                      <i class="fa fa-linkedin"></i>
-                                                  </a>
-                                              </li>
-                                              <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.instagram.com/anshika_shrivastav/?hl=en">
-                                                      <i class="fa fa-instagram"></i>
-                                                  </a>
-                                              </li>
-                                              <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="mailto:ashrivastav@student.nitw.ac.in">
-                                                      <i class="fa fa-google"></i>
-                                                  </a>
-                                              </li>
-                                          </ul>
-                                      </div>
-                                  </div>
-                              </div>
-                          </div>
-                      </div>
-                  </div>
+                  ))
+                  }
 
 
 
 
-                  <div class="col-xs-12 col-sm-6 col-md-4">
-                      <div class="image-flip" >
-                          <div class="mainflip flip-0">
-                              <div class="frontside">
-                                  <div class="card">
-                                      <div class="card-body text-center">
-                                          <p><img class=" img-fluid" src="images/team/divya.jpeg" alt="card image"/></p>
-                                          <h4 class="card-title">Venkata Sai Sreedivya Vadali  </h4>
-                                          <h3 class="card-text">Design Head   </h3>
-                                      </div>
-                                  </div>
-                              </div>
-                              <div class="backside">
-                                  <div class="card">
-                                      <div class="card-body text-center mt-4">
-                                      <h4 class="card-title">Venkata Sai Sreedivya Vadali  </h4>
-                                      <p style={{fontSize:35}} class="card-text">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Design Head &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-                                          <ul class="list-inline">
 
-                                              <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.linkedin.com/mwlite/in/vvs-divya-869b591777">
-                                                      <i class="fa fa-linkedin"></i>
-                                                  </a>
-                                              </li>
-                                              <li class="list-inline-item">
-                                                  <a class="social-icon text-xs-center" target="_blank" href="https://www.instagram.com/vvs_divya/">
-                                                      <i class="fa fa-instagram"></i>
-                                                  </a>
-                                              </li>
 
-                                          </ul>
-                                      </div>
-                                  </div>
-                              </div>
-                          </div>
-                      </div>
-                  </div>
 
 
 
