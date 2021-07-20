@@ -52,7 +52,7 @@ $ firebase deployment
       <a href="https://github.com/gaganvamsi2">
         <img
           alt="Web Developer"
-          src="https://avatars1.githubusercontent.com/u/38627023?s=400&v=4"
+          src=""
           style="border-radius: 50px"
           width="100"
           height="100"
@@ -68,7 +68,7 @@ $ firebase deployment
       <a href="https://github.com/Aakash074">
         <img
           alt="Web Developer"
-          src="https://avatars1.githubusercontent.com/u/38627023?s=400&v=4"
+          src=""
           style="border-radius: 50px"
           width="100"
           height="100"
